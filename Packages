@@ -952,10 +952,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 13432
 Depends: libax25,hamlib,ax25-tools,gpsd
 Filename: ./pat_0.12.0-1_arm64.deb
-Size: 6506366
-MD5sum: 47130416b37ccdaa5e7a92e0818add7d
-SHA1: 0ce6330f77ea17816fd6211b7a0bb3fe39380dd3
-SHA256: 71f48346715409f99028531d89da80f9c72be7dc0ed185de17264ab35701921a
+Size: 6506374
+MD5sum: 0813c6e925ca48ec4c586e8e1cc5c759
+SHA1: d764e8a00e190bb41d70b7a3c0b070972c6779d0
+SHA256: 7f7e4b44467aac7834f8a993a983f3996ec6b62d51a630ff450f1868ed1c3a20
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
