@@ -751,16 +751,16 @@ License: See source code license
 Vendor: none
 
 Package: flrig
-Version: 1.4.3-1
+Version: 1.4.3-2
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 59933
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
-Filename: ./flrig_1.4.3-1_armhf.deb
+Filename: ./flrig_1.4.3-2_armhf.deb
 Size: 19791748
-MD5sum: 7bfc84749ccdf42144fdeeba07be53e4
-SHA1: 017018aa6dfcad0418389df4801a985447df0a95
-SHA256: 50c4194da681ab067fb10213200e71b351e14d9965048c406e16501a85846c91
+MD5sum: 0e5cf38cbad1467c663c9089f071ff2b
+SHA1: c8844e34ef6ef60ed6da2b2f1d5343e4cdd86bfc
+SHA256: 0dae2e0e2bef036dc85107a115635c2fa144669bd636a8470f5e90a4850f4ccb
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
