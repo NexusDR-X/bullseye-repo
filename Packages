@@ -986,24 +986,6 @@ Vendor: none
 
 Package: pat
 Version: 0.12.0-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 13432
-Depends: libax25,hamlib,ax25-tools,gpsd
-Filename: ./pat_0.12.0-1_arm64.deb
-Size: 6506414
-MD5sum: ddd0e41bcf0944723fbcaff1ad0f75df
-SHA1: 4d5e23ed23149d93139818eec60955b5c60e5c21
-SHA256: 9660263c33aefce0cbb57d15f04898be1b389c5e8166f01f546d741408207bdb
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: pat
-Version: 0.12.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 9178
@@ -1017,6 +999,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: pat
+Version: 0.12.1-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 13453
+Depends: libax25,hamlib,ax25-tools,gpsd
+Filename: ./pat_0.12.1-1_arm64.deb
+Size: 6516160
+MD5sum: a4034c0cab0ffb8e59f4efb95970859b
+SHA1: c5af8cb5e22177dc9e68efb6f36fe53e4d580a8b
+SHA256: bbf10219ff876baed1a2664c5f02efc461b07c1145f71720744226f974345cca
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
