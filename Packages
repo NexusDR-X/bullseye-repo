@@ -847,10 +847,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 44239
 Depends: libusb-1.0-0-dev
 Filename: ./hamlib_4.4-1_armhf.deb
-Size: 13112398
-MD5sum: e118adf95e9c52330d32f0d02ec6233d
-SHA1: ddfce3ae6af03800192a864deab1b1449d61ec08
-SHA256: 73faed9b9670555551aaf2567de7afaffd70af3c34d754ac8b0d1f38fc912629
+Size: 13112594
+MD5sum: eb31adefc9000129493642ddbaa4ce09
+SHA1: 2e68ccacd0ccf5da8a733155fe6c1623af262d0c
+SHA256: 3f56b431b834178e8289c1e67c0c854e6f5a1911d0bdb579c1a32bce3796b227
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
