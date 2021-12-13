@@ -1135,10 +1135,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1294
 Depends: qt5-qmake,qtchooser,qtbase5-dev-tools,libqt5core5a,qtbase5-dev,libqt5serialport5,libqt5serialport5-dev,libqt5multimedia5,libqt5multimedia5-plugins,qtmultimedia5-dev,libqcustomplot2.0,libqcustomplot-doc,libqcustomplot-dev,libopus-dev
 Filename: ./wfview_1.2d-1_armhf.deb
-Size: 668970
-MD5sum: 631d9b0460371882568956d889c26530
-SHA1: 3e0ede3758ffd75ccb699919888193bb3a347fef
-SHA256: cc9f2a68d8decef47a56c28e0fdcef75d0e80c7c16fb82cc6db477cc39b60e9a
+Size: 669992
+MD5sum: 170833d564090ce989f5050087af70af
+SHA1: a93bf2ad8c476671719ac293f0edff7257bf58f3
+SHA256: 2af2788006a1e74bcd7424223cdc89b143ca51c5b8141ecdf045426fc1820321
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
