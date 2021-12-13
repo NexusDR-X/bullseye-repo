@@ -1236,3 +1236,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
+Package: yad
+Version: 10.90-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 1414
+Depends: intltool,libgtk-3-dev,autotools-dev
+Filename: ./yad_10.90-1_arm64.deb
+Size: 555140
+MD5sum: af72b4c1f1306d0792dabe4145202c62
+SHA1: d9e1e41a61672fc116cf91d12ab4398fe0c35c22
+SHA256: 084acf53fd45e0dd5c5eaff02c6110cc1385cca51ecb3938e070868070361d5b
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
