@@ -985,16 +985,16 @@ License: See source code license
 Vendor: none
 
 Package: pat
-Version: 0.12.0-1
+Version: 0.12.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 9178
+Installed-Size: 9190
 Depends: libax25,hamlib,ax25-tools,gpsd
-Filename: ./pat_0.12.0-1_armhf.deb
-Size: 3784804
-MD5sum: ee4bba8e112918c8e75a458e4ec614a8
-SHA1: d39ac949731df3cc9bb90326c28d14af95582a09
-SHA256: 08b0964229b0b9f28ca6914fd2d671f302d02bc75e9b445307065c032714f79c
+Filename: ./pat_0.12.1-1_armhf.deb
+Size: 3794264
+MD5sum: b7f7d4b62250a2bd3afa093b220d9efa
+SHA1: b40911649c5a2a1e7602e2fc9940359b62a64930
+SHA256: 0e3d3f64714843f518ee8b7227c0370f7d6b606572de2b91c20e61da44837f07
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
