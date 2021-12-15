@@ -895,16 +895,16 @@ License: See source code license
 Vendor: none
 
 Package: js8call
-Version: 2.2.0-1
+Version: 2.2.0-2
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 33752
-Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev
-Filename: ./js8call_2.2.0-1_arm64.deb
-Size: 12661212
-MD5sum: 1add392a28b9269aec2c72342e33dced
-SHA1: d3af423f273b8e96798fd7ad3da98e32ed066c9d
-SHA256: b57b9f71fbf127b5c65346e68e49764e86a1ff6e6f7a65643655807ee907ae42
+Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,hamlib
+Filename: ./js8call_2.2.0-2_arm64.deb
+Size: 12661182
+MD5sum: 871581afaedb823c23ad1538315424c0
+SHA1: 8ea7f9a64e305c70a29a2ea6f6f52bdb5544b9d7
+SHA256: ee35739d246b47e4b6329552b8551a25c042df423d91b7c0591773ec083f874e
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -1183,16 +1183,16 @@ License: See source code license
 Vendor: none
 
 Package: wsjtx
-Version: 2.5.2-1
+Version: 2.5.2-2
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 50370
-Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev
-Filename: ./wsjtx_2.5.2-1_arm64.deb
-Size: 11784660
-MD5sum: ab5eea52afa7dd323460cd51aeedb416
-SHA1: cc09a374a1403207cea20db0ace57703b5e53526
-SHA256: 8cef69924328ef3e5ad445eb8ebeafcb77b1fd1b6004625acb546c58f59a1ecc
+Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
+Filename: ./wsjtx_2.5.2-2_arm64.deb
+Size: 11784802
+MD5sum: dc3ec2f4c052135a8c874e5f7601c4d1
+SHA1: a2df18f2aaeff028db4e0cb1572619329a8e4165
+SHA256: e5d23f89b6f66ffe3d9d7db72056472850d68e2168d3775d4b11fc8134c834d1
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
