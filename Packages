@@ -865,10 +865,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 59162
 Depends: libusb-1.0-0-dev
 Filename: ./hamlib_4.4-1_arm64.deb
-Size: 13940634
-MD5sum: 54c89267af0201b90e7474984e9eb9e4
-SHA1: fa710cfe0ebb5bbc77400440b38fa0ff8d3af1d1
-SHA256: 7685cafb4248adb6ee0439c1668ed793bfc3e957f636ee2901f97f494aa180e2
+Size: 13940430
+MD5sum: a3b4610f41a8d270c01e7c12a25ef8ed
+SHA1: 2d5561006761ed9e5c2281e78d8d691a2881e75f
+SHA256: cb5bf2b74afcf18bc5c0d0cfc1afc5a72b9e04f227fb5ed5ba01aaa43a388937
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
