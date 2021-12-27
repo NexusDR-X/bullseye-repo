@@ -1183,16 +1183,16 @@ License: See source code license
 Vendor: none
 
 Package: wsjtx
-Version: 2.5.2-2
+Version: 2.5.3-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 50370
+Installed-Size: 50367
 Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
-Filename: ./wsjtx_2.5.2-2_arm64.deb
-Size: 11784802
-MD5sum: dc3ec2f4c052135a8c874e5f7601c4d1
-SHA1: a2df18f2aaeff028db4e0cb1572619329a8e4165
-SHA256: e5d23f89b6f66ffe3d9d7db72056472850d68e2168d3775d4b11fc8134c834d1
+Filename: ./wsjtx_2.5.3-1_arm64.deb
+Size: 11784314
+MD5sum: 034e53b3f69bd1dfc0ac5e22394b3bc4
+SHA1: 0081bf04c48e6590e45defb2fe23d7f79245d167
+SHA256: 8ff9eb283fe9dc16437dc8e095c1d24eddcd7451ee4247b573ac18c6fca1e104
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
