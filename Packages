@@ -829,10 +829,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7683
 Depends: libtool,intltool,autoconf,automake,libcurl4-openssl-dev,pkg-config,libglib2.0-dev,libgtk-3-dev,libgoocanvas-2.0-dev
 Filename: ./gpredict_2.3.105.a0a5-1_arm64.deb
-Size: 5200370
-MD5sum: f29dd7af25ec90147211066f73e98856
-SHA1: 12c40ecfb413e0b6c8a95f2a7247c6a164486810
-SHA256: e7f707ac8247f8a0c1a671790213351914837b2306a1de6380413dca21b01cd6
+Size: 5200388
+MD5sum: 91a73e634332ad09f4c4f13301473786
+SHA1: 7c0a4116b6d304a4ddc5c7dc39ce76f4af908a44
+SHA256: c476d8557f68f9534df97250db0fd8851be8b2368c0c36199e8a7a1a443c394a
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
