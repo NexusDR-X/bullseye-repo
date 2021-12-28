@@ -1189,10 +1189,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 43928
 Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
 Filename: ./wsjtx_2.5.3-1_armhf.deb
-Size: 11327740
-MD5sum: a750c35c217d33066f66fdd243586393
-SHA1: a930b934e6a9f3b22e3e75cdb3428da63d5278c8
-SHA256: f36074bd68a88c908f28284c564d2e00c25242a48749d990a14fdefc39167723
+Size: 11328766
+MD5sum: a541e534120d1ab1a820d1ccbb48a722
+SHA1: d93cde2631de26b61d496b4f61f653063b43f21b
+SHA256: 4dcc3658465b991375a88ee3438e3950f0565be273fda4859615b9886c3997a4
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
