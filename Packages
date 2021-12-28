@@ -613,10 +613,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 8504
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
 Filename: ./flcluster_1.0.7-1_arm64.deb
-Size: 2536758
-MD5sum: 999f0571e72914fe946083efa311172b
-SHA1: e4ed8ed882a8fba536a7df8597f9c6f253b96fe6
-SHA256: d68fa6afcd88d79a30e99c85bdd0cc065f2289fa67bbaf0fa4cd57192dc7adbf
+Size: 2536704
+MD5sum: 4e3acd7492b9ffd46daecfa121d6065f
+SHA1: 37bf74133a1a663c8a365a9f6e66d3f8d78ad19a
+SHA256: cabe809b038e3b6db9ba3486526852705148ac0591ac3664bcf94e71476e3e9a
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
