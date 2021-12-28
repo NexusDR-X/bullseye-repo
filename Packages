@@ -631,10 +631,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 95544
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
 Filename: ./fldigi_4.1.20-1_arm64.deb
-Size: 27326566
-MD5sum: 0403497de93224f8981a01390ddbf244
-SHA1: 6c45da82bf0275f712f3521f22f6d4e4d2cc0985
-SHA256: ab0fb41af8d9cfda67d95f678cb38d08ffb652f98bf876b2121bbd2a7b5c76c2
+Size: 27328816
+MD5sum: f764ebaeb616cc106c8a5c59c429f445
+SHA1: a864166a71d75f6c29c2e36739843ef11d922302
+SHA256: 70e4bba8b95946cab54284d0333552e45872f6418f062de0d6c08826eff6b5f8
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
