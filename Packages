@@ -1057,6 +1057,24 @@ License: See source code license
 Vendor: none
 
 Package: rmsgw
+Version: 2.5.1-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 750
+Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
+Filename: ./rmsgw_2.5.1-1_arm64.deb
+Size: 287516
+MD5sum: 3d2ff18401ec8e0dc2b9f02c2f2829f8
+SHA1: 498563512ad511b159741118b4cd5ed08c8eb24c
+SHA256: 737f38927d111e6f8ef42720000c07e91516095ec702eb6a2544a066c3c044e5
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: rmsgw
 Version: 2.5.1-2
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
@@ -1071,24 +1089,6 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: rmsgw
-Version: 2.5.1-3
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 751
-Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-3_arm64.deb
-Size: 288262
-MD5sum: 82fcf301b48af3f74fa31f7513d73ad2
-SHA1: d9729719216cdf22c276e0389d7f708eafb202dd
-SHA256: 6b572c1c6e91cea808415a374068dce3516611e8725eb55560c015d775adbfdc
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
