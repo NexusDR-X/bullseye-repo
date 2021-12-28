@@ -1171,10 +1171,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 50367
 Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
 Filename: ./wsjtx_2.5.3-1_arm64.deb
-Size: 11784314
-MD5sum: 034e53b3f69bd1dfc0ac5e22394b3bc4
-SHA1: 0081bf04c48e6590e45defb2fe23d7f79245d167
-SHA256: 8ff9eb283fe9dc16437dc8e095c1d24eddcd7451ee4247b573ac18c6fca1e104
+Size: 11783476
+MD5sum: 2edc1eabb5f0113dafbd005b8331f250
+SHA1: c1505f416139c44a9ecd69bd4b29902ec3a5ae40
+SHA256: 45a295d9430c6900ba847487feb2e24f64636830e9bab609a8a7e536fc60c0d9
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
