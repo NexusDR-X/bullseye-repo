@@ -1063,10 +1063,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 750
 Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
 Filename: ./rmsgw_2.5.1-1_arm64.deb
-Size: 287516
-MD5sum: 3d2ff18401ec8e0dc2b9f02c2f2829f8
-SHA1: 498563512ad511b159741118b4cd5ed08c8eb24c
-SHA256: 737f38927d111e6f8ef42720000c07e91516095ec702eb6a2544a066c3c044e5
+Size: 287704
+MD5sum: a7e9b6dac0361c77bf083c144d2c2c91
+SHA1: 1e8259f1addbf602fdba21362a709034a913ae89
+SHA256: 1c345c33270281cbe3bbce65f87779f8bd314f789d4069591f56bf275a0c2e9d
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
