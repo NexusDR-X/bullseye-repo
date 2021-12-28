@@ -78,9 +78,9 @@ Installed-Size: 494
 Depends: ax25-tools,perl
 Filename: ./ax25mail-utils_0.16-1_armhf.deb
 Size: 210880
-MD5sum: 289aa463c3212a05ef48e28939bbece6
-SHA1: e08b0a378c7e8cde12d0829ba7e2bb3ae0d7fcea
-SHA256: c64cc340b4d852537bd49a697d3eda356a1458a21e56e7f36c05248849f9eaba
+MD5sum: 2098115190f6be5f23047fc67dff8f5d
+SHA1: 0f2bf56544539e96623a5ac248653b83d61c5ad9
+SHA256: 29ef1cf898914722323189278f7609adfca1d7d1cca947205e3aba019e508b36
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
