@@ -840,42 +840,6 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: hamlib
-Version: 4.4-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 44239
-Depends: libusb-1.0-0-dev
-Filename: ./hamlib_4.4-1_armhf.deb
-Size: 13110818
-MD5sum: 0510f5a6cecc294ccad1a2468cb47ff8
-SHA1: 4cbe74ed43c999e8566c04e5818b09caff09874c
-SHA256: fca524865857d4ad9c6369c81c310bcbdd95f69a3b8b09d683a6b58d602957c4
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: hamlib
-Version: 4.4-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 59162
-Depends: libusb-1.0-0-dev
-Filename: ./hamlib_4.4-1_arm64.deb
-Size: 13939984
-MD5sum: 929f409d1bc5f3f9ef35417f74135136
-SHA1: 15e344268e39ccfc860d40d8df2a3322ad35b013
-SHA256: ed24e4664a908d10675d084963e3f3034d0b1d344657ea63b7ab95982821b14b
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
 Package: js8call
 Version: 2.2.0-1
 Architecture: armhf
@@ -955,10 +919,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 3529
 Depends: libusb-1.0-0-dev
 Filename: ./libhamlib-utils_4.4-1_arm64.deb
-Size: 1192306
-MD5sum: 8e8ff1f77d2f1494b939318fd820ed80
-SHA1: d3c66fc90133052b8152eb7667422a4f14ae0c4b
-SHA256: 8d4cda06312153d7546b0fdca3fb7c59d7228b8df84e63175a5f9bc4fab89ff3
+Size: 1192348
+MD5sum: 15eb124bada96c85d64b7e8b99b5493d
+SHA1: 90c17d71703749d385265253c2eb61051d774258
+SHA256: e8b3dd4dc988dc5b160c4cf0ccef797c23607242a3c0de973189a7eea5c7aead
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -970,13 +934,13 @@ Package: libhamlib4
 Version: 4.4-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 96200
+Installed-Size: 55493
 Depends: libusb-1.0-0-dev
 Filename: ./libhamlib4_4.4-1_arm64.deb
-Size: 21412942
-MD5sum: 415fd363f4a05fe5b22f345f659e299a
-SHA1: 8785262f7b8ff96aa41515efb4811cfdd3366a44
-SHA256: 0fedb99fdf4e16555e0b36582e9c414f00224f59534d1e751a658f9030fbc99e
+Size: 12726706
+MD5sum: 72ff4cdb01872e5280d5e83cc23962f3
+SHA1: 3f00156ec97b5d9e7ba6723ad03b9d10cfc924cf
+SHA256: ae678c558198f1a2968212dff35dc26daa9d700fe71b3b0f1ed9e815453ff03d
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
