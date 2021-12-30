@@ -912,17 +912,35 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
+Package: libhamlib-dev
+Version: 4.4-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 328
+Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
+Filename: ./libhamlib-dev_4.4-1_arm64.deb
+Size: 84484
+MD5sum: b3fa7843e49a47ede3eb04ab4573b8a3
+SHA1: b1d25bdcf4c1124ddf2209118a9b93530ba96c01
+SHA256: 2f7614587456a7f9a32bc8da0b6c72b84006ad5f203e21328e43c20c529ebb0d
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
 Package: libhamlib-utils
 Version: 4.4-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 3529
-Depends: libusb-1.0-0-dev
+Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
 Filename: ./libhamlib-utils_4.4-1_arm64.deb
-Size: 1192348
-MD5sum: 15eb124bada96c85d64b7e8b99b5493d
-SHA1: 90c17d71703749d385265253c2eb61051d774258
-SHA256: e8b3dd4dc988dc5b160c4cf0ccef797c23607242a3c0de973189a7eea5c7aead
+Size: 1192228
+MD5sum: 6f6da4d10008b1839e8c707ba90ed876
+SHA1: 77689d803167d8acd4b956a988cb1848c878114c
+SHA256: 8b71eb50b360e7cd7cc0e24d198a99fe81df8a0a89cd59e11ceaa4d54c9ea596
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -935,12 +953,12 @@ Version: 4.4-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 55493
-Depends: libusb-1.0-0-dev
+Depends: libusb-1.0-0-dev,libc6
 Filename: ./libhamlib4_4.4-1_arm64.deb
-Size: 12726706
-MD5sum: 72ff4cdb01872e5280d5e83cc23962f3
-SHA1: 3f00156ec97b5d9e7ba6723ad03b9d10cfc924cf
-SHA256: ae678c558198f1a2968212dff35dc26daa9d700fe71b3b0f1ed9e815453ff03d
+Size: 12726406
+MD5sum: 60ecaefa157d895e1843972abf339817
+SHA1: 007160d7e03978b315fa86ce68b8ddd73f062515
+SHA256: 167b2460755675dadf2e315b95fa02c74aeff3428a99cd3d8d8be2287259cc48
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
