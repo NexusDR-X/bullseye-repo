@@ -1025,12 +1025,12 @@ Version: 0.12.1-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 13453
-Depends: libax25,hamlib,ax25-tools,gpsd
+Depends: libax25,libhamlib-utils,libhamlib4,ax25-tools,gpsd
 Filename: ./pat_0.12.1-1_arm64.deb
-Size: 6516160
-MD5sum: a4034c0cab0ffb8e59f4efb95970859b
-SHA1: c5af8cb5e22177dc9e68efb6f36fe53e4d580a8b
-SHA256: bbf10219ff876baed1a2664c5f02efc461b07c1145f71720744226f974345cca
+Size: 6516084
+MD5sum: 4a0582e63ceb1a86365492e9da35f31f
+SHA1: 0300b5588b6151f93526c7539a47101195e0d495
+SHA256: 7f8e6b602ded674e8c025a37a6f7c00f035c78443ac6c5806d1950c8d0921eb2
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
