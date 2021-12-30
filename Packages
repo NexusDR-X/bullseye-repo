@@ -1189,10 +1189,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 205
 Depends: libax25
 Filename: ./uronode_2.15-1_armhf.deb
-Size: 79442
-MD5sum: 065baef9f8e3abd53027ab4a5c68c298
-SHA1: 15198f31824713f84a7814e2dd910a88d34e3d8a
-SHA256: 708366b33ca496bf42b231532268b2bcded4fe725fb42e593098644561189a45
+Size: 79440
+MD5sum: 37bfa9b077ac8065a3317cb038705bbf
+SHA1: 39621be2602e8a6979745f09215b356b255a6bea
+SHA256: 696cbcde735ee494f5943cd5de043f16267f71f8bdf0e61ca89c95c483b85980
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
