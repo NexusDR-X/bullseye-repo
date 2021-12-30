@@ -1187,12 +1187,12 @@ Version: 2.5.3-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 50367
-Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
+Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
 Filename: ./wsjtx_2.5.3-1_arm64.deb
-Size: 11783480
-MD5sum: c21ceaac524240d709adcafb844f8a1e
-SHA1: 952d38e6120794dfc1418d07735dcfd89a85d4c0
-SHA256: 9f7f0ebd8843f2606e24e0f718a00eea8a07ba187c75d8968d989852d5b3aacd
+Size: 11783430
+MD5sum: c0cff11f10f2a759d20ab5718d3de891
+SHA1: 9f0997b5a4662ac28d427938803eaf98e8f2eb40
+SHA256: 868853357d77f7cdf312a25fe0232c23d2c5c004cadaad16620c4be564877fcf
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
