@@ -811,10 +811,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7301
 Depends: libtool,intltool,autoconf,automake,libcurl4-openssl-dev,pkg-config,libglib2.0-dev,libgtk-3-dev,libgoocanvas-2.0-dev
 Filename: ./gpredict_2.3.105.a0a5-1_armhf.deb
-Size: 5173102
-MD5sum: 3da7c2f26a5f2fe0e93118c3d60fb271
-SHA1: 03c478ba90461611a15e71eb381b905f0a0576fc
-SHA256: f1def3dec46ea621b5910cd8083e7c883a446ddac1bebb94f80b46daa8f7ab61
+Size: 5171464
+MD5sum: 29006d1cefaad4f57db9eae4052a3397
+SHA1: 9a4c98738925544d1559f1bfd62318c7dc365bc0
+SHA256: 4b6f79c269addb6b5a60684d88136b3bca6219ca5ee91cb7805a43d739f643cc
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
