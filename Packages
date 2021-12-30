@@ -1117,10 +1117,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 2189
 Depends: qtbase5-dev,qtchooser,qt5-qmake,qtbase5-dev-tools,libfftw3-dev,libpulse-dev,libasound2-dev,libv4l-dev,libopenjp2-7-dev
 Filename: ./qsstv_9.5.8-1_arm64.deb
-Size: 954910
-MD5sum: 882415fcc1d8968dc0527c3dcfc6ae45
-SHA1: d00586fbf313bdf37abc3ac03886e39ffeeee39c
-SHA256: 4204f8569a7290438e221bbc68c9088900a43f9a75702a04b2be631b2d5230ea
+Size: 954914
+MD5sum: a96d82f6454418db88fb74cf8b0c9718
+SHA1: 448976bb43aa3998f732a5488fc100b4bca964c1
+SHA256: f3b82daadad69979ebc18013e56ffa7ac5a6085bd435d1470ce66a2cf35d41c4
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
