@@ -667,10 +667,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4936
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
 Filename: ./fllog_1.2.7-1_armhf.deb
-Size: 1892942
-MD5sum: 14e474763437759d6a9d2637386439d7
-SHA1: e270eb166137c1d71b0adff338d24a57550817c2
-SHA256: 4c6dbd50634910378e04acec1caf5b91a4d24a6ddd10854b5bd6d7247a82d373
+Size: 1892660
+MD5sum: 1c5b0bef811807b8a8e2ef0dcfce2ab4
+SHA1: a58905ad825c97de7dd991e70e36f54ec1e70e5b
+SHA256: 335e239c22641ff535dbd046dbf9b02aecfa56101d2bacd91865783356809206
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
