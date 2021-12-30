@@ -1099,10 +1099,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1918
 Depends: qtbase5-dev,qtchooser,qt5-qmake,qtbase5-dev-tools,libfftw3-dev,libpulse-dev,libasound2-dev,libv4l-dev,libopenjp2-7-dev
 Filename: ./qsstv_9.5.8-1_armhf.deb
-Size: 858912
-MD5sum: e04f39428be15c30d7bf7db7259450a8
-SHA1: cbdb49e87d4be77459fc563bf39388e18278a128
-SHA256: dc4ba4fbc262645f16d1876e7f6edd82f7dad713b0005eefb7ec6592e810114b
+Size: 859142
+MD5sum: ad9b7c6f4a3c57f36524eed810991e92
+SHA1: af5e011d4a0e1d8e32677feb3ab83e47e76f1927
+SHA256: 76037dbcf4690ce014b8084138abd28387245425c3c8ae6a7bfbecdcbacbf644
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
