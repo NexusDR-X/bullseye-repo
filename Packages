@@ -865,10 +865,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 33752
 Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
 Filename: ./js8call_2.2.0-1_arm64.deb
-Size: 12660826
-MD5sum: a8dbb21af7ba16a8227371d27fb33f37
-SHA1: 3f70e1ed64842272f9e151cb3e67b06ba73b7344
-SHA256: c74912f9e084b099e4c715a238753b827a41be84ebda53daba632635b0610a1c
+Size: 12660914
+MD5sum: 9eee24e8c94115aaf0eabf1fdfed7f40
+SHA1: f65c286b1beb19bbc43cb1135d30da11fd137e01
+SHA256: 8354f848c9d5c5f0160853dfa9d6e3e307df46b14bcb47859bc0414f9f8381ca
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
