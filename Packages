@@ -757,10 +757,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 78184
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
 Filename: ./flrig_1.4.4-1_arm64.deb
-Size: 20270186
-MD5sum: 52e2c81104a8d83ff3fdec3a33a73eec
-SHA1: 0b115a7b136bb2685268a1c49197225a3c8a38fe
-SHA256: 2ce092ff29c412bb073eccfe33c20c8c2b4fb75fd00479a8b3f8a6adabb88e82
+Size: 20270120
+MD5sum: e19fc29a3ef168f5838c2e9ad145cc2e
+SHA1: a779c2d3e66442783a43f30254c2adbcb7274d97
+SHA256: 5ad04e8689320ff90004cd51982c4294f7629f19cd3b4cbd88b4b72d0af49b0a
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
