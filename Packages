@@ -1259,12 +1259,12 @@ Version: 2.5.3-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 43928
-Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,hamlib
+Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
 Filename: ./wsjtx_2.5.3-1_armhf.deb
-Size: 11328612
-MD5sum: e0f33e00cfeed9af435a816fb4baa948
-SHA1: 4f6eeab07e628bfc2764f41f8308028687dc598b
-SHA256: b4c100cfe7093d16062c8356ebbab31f985f587018f7f54b42e52eabab9ea99b
+Size: 11328780
+MD5sum: e41f40581c01d80efbccc066409948c6
+SHA1: bffb3aa993affda48182eacd93abf0298cce9b20
+SHA256: 6983fa444c8f28fdb14d8b78957f7f91ca423d636a65ad5e5350104effcf4736
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
