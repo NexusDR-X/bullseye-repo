@@ -863,12 +863,12 @@ Version: 2.2.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 18151
-Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,hamlib
+Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
 Filename: ./js8call_2.2.0-1_armhf.deb
-Size: 10081034
-MD5sum: 0c89a69ab66996cdefb49f2841130a6e
-SHA1: ebe747876f9ed7c4dfd9816ef87371d4ff1d736d
-SHA256: a01af19c357d938871c0ff158452f7952fb2c1a006d9b43515b12369c00d99be
+Size: 10081072
+MD5sum: 81b6dbacefcfb6c525e2757a05d0f15d
+SHA1: a9b5ab2ad926fff5a28af13217165d0f8ae58380
+SHA256: adc34999ba1bef4618fd91a1129092467d4d1669cf3692418a541be3e67bcd37
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
