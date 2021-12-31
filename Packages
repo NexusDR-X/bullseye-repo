@@ -1081,10 +1081,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 13441
 Depends: libax25,libhamlib-utils,libhamlib4,ax25-tools,gpsd
 Filename: ./pat_0.12.1-1_arm64.deb
-Size: 6510878
-MD5sum: 9848897cb56e9ee5a42995f58b361023
-SHA1: 82b55b6345987e173d50158a65b247c809c3792c
-SHA256: c83627e597139028bc08e4d50348aa030113ec2b36e4afba2b65cc0405919d9f
+Size: 6510758
+MD5sum: b1bdbc344ad274e76ed210ccd5b5a665
+SHA1: 91c066a7289f2f7e90a8f57d88db4335ab5a67a0
+SHA256: bf77450d47787d10a0dd09e6905ad14e4f19d8e5b0f70af97dab1f52de23a739
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
