@@ -77,10 +77,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 559
 Depends: ax25-tools,perl
 Filename: ./ax25mail-utils_0.16-1_arm64.deb
-Size: 215720
-MD5sum: 1870486b454baeffa00b5eddb31a9ce4
-SHA1: 47bfb217a44fc78799d917e3ad0b37f1fd081cba
-SHA256: 3ec423cd7a887b811972bd584ecf09d8368d2d7ba30ba55e415ea406a4a2cae9
+Size: 215710
+MD5sum: 17b8fb60c86e6142d4735da38f21c775
+SHA1: f8a140a5b3f011a3c2e41a98b992295d1e0cc447
+SHA256: d141824cd9ea97efac82df25fc6afa144fc9b6ccd111587c6a8ea632a6cd7db3
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
