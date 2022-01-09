@@ -1147,16 +1147,16 @@ License: See source code license
 Vendor: none
 
 Package: rmsgw
-Version: 2.5.1-2
+Version: 2.5.1-3
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 656
 Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-2_armhf.deb
-Size: 273312
-MD5sum: c7b24bfe0db47f7af2edd6c2042019bf
-SHA1: 38490a1d955bc48058028d6cc0fbe25eb5e5605a
-SHA256: ba5856d2429c318f10866c32c56b73e7af369c3c7cde6d8664c2a99c9ebdba66
+Filename: ./rmsgw_2.5.1-3_armhf.deb
+Size: 273428
+MD5sum: 13f80d64fce968da0be6a0afd7677751
+SHA1: 52687842a065a161f62fce1f34f1f6474a8ba287
+SHA256: 0d1de02349d0f3235c35ec847a9a9793eb54f462629deb1984f77e1067e08e36
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
