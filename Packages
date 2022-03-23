@@ -107,16 +107,16 @@ License: See source code license
 Vendor: none
 
 Package: direwolf
-Version: 1.6.0-fe6cba2-1
-Architecture: armhf
+Version: 1.6.0-7d3c1d1-1
+Architecture: arm64
 Maintainer: https://github.com/wb2osz/direwolf
-Installed-Size: 23630
+Installed-Size: 23883
 Depends: libasound2,libgps-dev
-Filename: ./direwolf-1.6.0-fe6cba2-1_armhf.deb
-Size: 22060452
-MD5sum: baf3811a18ab005fff00a429256c46d0
-SHA1: 7ab72980a70ad8c682e8d2abf642573a66988a02
-SHA256: 8c62b77c2934430616ce2f18396e15cfd3ff6b25af427eab4020cd63e330d58b
+Filename: ./direwolf-1.6.0-7d3c1d1-1_arm64.deb
+Size: 22135498
+MD5sum: 7f48525ce66473a10368c6881b1d2d3c
+SHA1: 053ebf71af76f634bb41e24f614316d3a0de9dfa
+SHA256: 1b4d46bd0c59e9e5e9e5f680216360e140a3208ce9034e4762ee5182a890fc63
 Section: devel
 Priority: optional
 Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tracker, and APRStt gateway
@@ -331,15 +331,15 @@ Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tr
 
 Package: direwolf
 Version: 1.6.0-fe6cba2-1
-Architecture: arm64
+Architecture: armhf
 Maintainer: https://github.com/wb2osz/direwolf
-Installed-Size: 23883
+Installed-Size: 23630
 Depends: libasound2,libgps-dev
-Filename: ./direwolf-1.6.0-fe6cba2-1_arm64.deb
-Size: 22135476
-MD5sum: a73e0278813a1c471a2994c2fc51fb58
-SHA1: 9374e9c611d2c212cc45f48fddb9b06b5079d370
-SHA256: cece614c2d7c5f33c600a62f489e1b6aacbb711c23b0dd34d1c7f584b701f845
+Filename: ./direwolf-1.6.0-fe6cba2-1_armhf.deb
+Size: 22060452
+MD5sum: baf3811a18ab005fff00a429256c46d0
+SHA1: 7ab72980a70ad8c682e8d2abf642573a66988a02
+SHA256: 8c62b77c2934430616ce2f18396e15cfd3ff6b25af427eab4020cd63e330d58b
 Section: devel
 Priority: optional
 Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tracker, and APRStt gateway
