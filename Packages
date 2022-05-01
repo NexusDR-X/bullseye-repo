@@ -1027,10 +1027,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4342
 Depends: ax25-tools,perl
 Filename: ./linpac_0.29-1_arm64.deb
-Size: 1475378
-MD5sum: 961e4a256aa6dca09f4aaf278d9f47c7
-SHA1: 67ba3f885fee950aa4894669defcc4b7eff9ae1d
-SHA256: 43d40337fcd5274a5542c403bcc0337e9339b9746b19dd26f4da6d38f60b9f82
+Size: 1475384
+MD5sum: a28b8d1dc4dc282fa15b691db9b3e739
+SHA1: dc76226a2cad99b4e87b3852940e99fe7fe92ce8
+SHA256: aa71f51577dce17032d62238d5a5272919805e4703386eaae6f94ffb0c48f1a3
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
