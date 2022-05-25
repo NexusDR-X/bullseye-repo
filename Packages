@@ -1219,16 +1219,16 @@ License: See source code license
 Vendor: none
 
 Package: wfview
-Version: 1.2d-1
+Version: 1.2e-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 1282
-Depends: qt5-qmake,qtchooser,qtbase5-dev-tools,libqt5core5a,qtbase5-dev,libqt5serialport5,libqt5serialport5-dev,libqt5multimedia5,libqt5multimedia5-plugins,qtmultimedia5-dev,libqcustomplot2.0,libqcustomplot-doc,libqcustomplot-dev,libopus-dev
-Filename: ./wfview_1.2d-1_arm64.deb
-Size: 658924
-MD5sum: 78b1bda6ea08408e42a488809093f0bf
-SHA1: 8e885e942a20cbd5b52f025b6b612d0f58ebd0bd
-SHA256: 75528e8e6d71d8c960905658151682077fe837641cb62756fbb92c1d4600308c
+Installed-Size: 1486
+Depends: qt5-qmake,qtchooser,qtbase5-dev-tools,libqt5core5a,qtbase5-dev,libqt5serialport5,libqt5serialport5-dev,libqt5multimedia5,libqt5multimedia5-plugins,qtmultimedia5-dev,libqcustomplot2.0,libqcustomplot-doc,libqcustomplot-dev,libopus-dev,libeigen3-dev,portaudio19-dev,librtaudio-dev
+Filename: ./wfview_1.2e-1_arm64.deb
+Size: 735356
+MD5sum: b4f0750b784602bac48423537fd11585
+SHA1: 4758c30770465b85a01e54b92deafedbda7e524b
+SHA256: a341075050bf38ebc8b8380de457f72a3b6dd360fb9287907962bb883e9cd80a
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
