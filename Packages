@@ -715,16 +715,16 @@ License: See source code license
 Vendor: none
 
 Package: flmsg
-Version: 4.0.19-1
+Version: 4.0.20-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 33071
+Installed-Size: 33817
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev
-Filename: ./flmsg_4.0.19-1_arm64.deb
-Size: 9044350
-MD5sum: 1b0eddd5a98b67a697c6d8b5ee1deeb9
-SHA1: c6284fa4fe5b722f65d7015f771e2be4ddbdd874
-SHA256: 5fc26a2e50b551e7343a08550c33100129673a53a0f33f9df450ebcd2ace73a3
+Filename: ./flmsg_4.0.20-1_arm64.deb
+Size: 9242352
+MD5sum: 9e0d0e932597f51415ce60553b1e53c8
+SHA1: 23f27c2a89ac5ac7822e4561ca1ce3ef36dc2218
+SHA256: da2d51e85810b8e3011adfe3f8e2b3aabcaecb6ca07e29ae9a9146e19cc4fb02
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
