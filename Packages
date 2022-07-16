@@ -823,16 +823,16 @@ License: See source code license
 Vendor: none
 
 Package: gpredict
-Version: 2.3.105.a0a5-1
+Version: 2.3.112.e352-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7683
 Depends: libtool,intltool,autoconf,automake,libcurl4-openssl-dev,pkg-config,libglib2.0-dev,libgtk-3-dev,libgoocanvas-2.0-dev
-Filename: ./gpredict_2.3.105.a0a5-1_arm64.deb
-Size: 5200374
-MD5sum: b0a25e1a47f2f851b655828524d82602
-SHA1: e7831194caa2234e2ea28bd27e2b261cae5befbd
-SHA256: 0c6d7cbac746c9262e0e3b37e17b22b54922b5c101ecc567928e296b764386f3
+Filename: ./gpredict_2.3.112.e352-1_arm64.deb
+Size: 5200386
+MD5sum: 7bba6b957419d34f9f8b392c5304893b
+SHA1: 78fb92f4e0136b76248eb6bd61c07f6f73936686
+SHA256: b20bda1e5b10dfac0f7398a16ed1d2a927325b4b9ba393239b1bb7269369aecf
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
