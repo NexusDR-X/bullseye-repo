@@ -1064,9 +1064,9 @@ Installed-Size: 9178
 Depends: libax25,libhamlib-utils,libhamlib4,ax25-tools,gpsd
 Filename: ./pat_0.12.1-1_armhf.deb
 Size: 3789886
-MD5sum: 865f5a889a839f6602652766477c9c55
-SHA1: 02c70175e860c963c29b5108e4ecc468ca299887
-SHA256: 3cbc1a73332ead5b741a61a7bd81aa087a77b4162d52c586bb7d4a5faede9d5b
+MD5sum: ede8a8258481c13cec2a26711bd632c4
+SHA1: 6f352f6a5d6e52945da82f73227c3577a1ca92a9
+SHA256: b4fed9934dc3c24b69a9dd896092fa85b6795dcda3c4ee58337e8a59da941216
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
