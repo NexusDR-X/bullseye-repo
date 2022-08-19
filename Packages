@@ -1,3 +1,21 @@
+Package: arim
+Version: 2.12-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 6288
+Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
+Filename: ./arim_2.12-1_arm64.deb
+Size: 5653914
+MD5sum: 07e4cdef606f25a396ffd7825866a276
+SHA1: 595926c7c7137256454ee43c43222c33bf124dae
+SHA256: 577bd5c502c29bd41c31949b2fd1d458eccbf5dc83d71932b915c79df9f1102a
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
 Package: ax25-apps
 Version: 2.0.1-1
 Architecture: arm64
