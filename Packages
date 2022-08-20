@@ -5,10 +5,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 6288
 Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
 Filename: ./arim_2.12-1_arm64.deb
-Size: 5653616
-MD5sum: 54498354e201b780f35161d258cc8562
-SHA1: 4f4dfe69f92ea832a0821335cfd90079e4150fac
-SHA256: 020375aa84937ca928411877d0424b9fa63389deb4ce81727aa2f0e514f527ee
+Size: 5653598
+MD5sum: 84c629411f3de0767aa49ab64300cce5
+SHA1: df35785382f1724335665527b8a76e73221ad1bc
+SHA256: b24c42d8e27d50ceb80938c2db063da106ee4495a3ad9bf8b9c5ff6db89c3363
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
