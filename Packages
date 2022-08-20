@@ -1,3 +1,21 @@
+Package: arim
+Version: 2.12-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 6234
+Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
+Filename: ./arim_2.12-1_armhf.deb
+Size: 5657550
+MD5sum: ce88e2c3eb38d08bbca0ef291d1d6671
+SHA1: 6258372aa7f8debdcce938ae3c21ae877f956779
+SHA256: c4bcdf50d9c2940814e8b1fae259a410f7d8e739a505faae67bf8281d422c2c9
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
 Package: ax25-apps
 Version: 2.0.1-1
 Architecture: armhf
