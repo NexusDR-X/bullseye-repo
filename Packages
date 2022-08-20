@@ -822,6 +822,24 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
+Package: garim
+Version: 1.7-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 5897
+Depends: libfltk1.3-dev
+Filename: ./garim_1.7-1_arm64.deb
+Size: 4252762
+MD5sum: c9d8552d7fd82251f03ddaa8bc940a95
+SHA1: 545c97a0aac874a89cd429a1078f734a23d0a411
+SHA256: f4e13dd0cc40c85fc722e85bbae94a63cca48fc4523c18797ad28212d87ae24a
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
 Package: gpredict
 Version: 2.3.115.0f3be-1
 Architecture: arm64
