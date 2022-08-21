@@ -22,10 +22,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 509
 Depends: ardop
 Filename: ./ardop2_2.0.3.8-BPQ-1_arm64.deb
-Size: 192218
-MD5sum: 5cc85617def13c39ec27d7f31c1b3950
-SHA1: 5bc88de2f7db4e894dac56008c7310ddd5675c96
-SHA256: 4f4fa8319d7aa50bd9b1fea11ecfdf853dcb2f8b5c0042c0d569c5b7d027fa14
+Size: 192230
+MD5sum: dec9c1bc98b916ae6576c6c987ad254d
+SHA1: d05e9e7ef33de5f1020134179b7fa6b8a53be38e
+SHA256: 5ccb0fda1f1a5ea9b7fa75d818a40038414b385bc9c0dae9e3b252494125de2b
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
