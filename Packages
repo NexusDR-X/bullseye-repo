@@ -1,3 +1,20 @@
+Package: ardop
+Version: 1.0.4.1j-BPQ-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 588
+Filename: ./ardop_1.0.4.1j-BPQ-1_arm64.deb
+Size: 233432
+MD5sum: 23701d6ce2336cc1e53b8b6145ef1ab6
+SHA1: 4ca72379d04675e8fa32fa8247470144af808921
+SHA256: 992652271b1afc7acf4695987355b03bc1f78543c6c2c75614876f595c7ce015
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
 Package: arim
 Version: 2.12-1
 Architecture: arm64
