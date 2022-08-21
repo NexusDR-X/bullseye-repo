@@ -50,6 +50,24 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
+Package: ardop2
+Version: 2.0.3.8-BPQ-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 474
+Depends: ardop
+Filename: ./ardop2_2.0.3.8-BPQ-1_armhf.deb
+Size: 193710
+MD5sum: 8ba56162bef4c2eec7c14e70f44201c1
+SHA1: e707b030182df90b8eef0e9dc0fe16964ba14c07
+SHA256: a4958e9f783468687d7f612a99efa6ea38d72f6b2ede05111d6ccaf73ea32baa
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
 Package: arim
 Version: 2.12-1
 Architecture: armhf
