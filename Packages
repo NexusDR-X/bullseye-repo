@@ -34,6 +34,24 @@ Vendor: none
 
 Package: ardop2
 Version: 2.0.3.8-BPQ-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 509
+Depends: ardop
+Filename: ./ardop2_2.0.3.8-BPQ-1_arm64.deb
+Size: 192220
+MD5sum: 128fd9157995e37768b9b01140926c1d
+SHA1: a8a0a316fd884d1e727bcf2270c720dd0a4560bd
+SHA256: 3d17e85fc1cef41b5898a54d3e0b4cca86faef86afc62e2ce3012a9e031084ef
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: ardop2
+Version: 2.0.3.8-BPQ-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 474
