@@ -16,16 +16,16 @@ License: See source code license
 Vendor: none
 
 Package: ardop2
-Version: 2.0.3.8-BPQ-1
+Version: 1.0.4.1j-BPQ-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 509
+Installed-Size: 0
 Depends: ardop
-Filename: ./ardop2_2.0.3.8-BPQ-1_arm64.deb
-Size: 192226
-MD5sum: d38f0f626da344e2fba931c8369d3d70
-SHA1: dcc3afb8188b55846d276dcc85d7b8001c7bed62
-SHA256: 579cdfb2dbffe4aec7c175410d6ea7a1c500ec6d8da96b7dc7d73cb4920d86d1
+Filename: ./ardop2_1.0.4.1j-BPQ-1_arm64.deb
+Size: 2272
+MD5sum: ebdafa54a0b7edcb2ec6895ede42f674
+SHA1: 24a17454d293414530feb5640dc1b8d4b0bf9544
+SHA256: 9c75fdea274172759ef995ec75635c17c0c32495823e79887c7ab5ab1ffef56c
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
