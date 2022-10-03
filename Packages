@@ -1219,16 +1219,16 @@ License: See source code license
 Vendor: none
 
 Package: rmsgw
-Version: 2.5.1-5
+Version: 2.5.1-6
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 775
 Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-5_arm64.deb
-Size: 294416
-MD5sum: 9ecbcf7fe58bcff32a28bcfee2fdc5c8
-SHA1: 89db8f459d006dabe722a2bf1aa7d43e4c7d0b52
-SHA256: 65acd1ae5eba5dc4b5df261842351e5921d5b68e3f1c0e527fdcac96b8c70dd9
+Filename: ./rmsgw_2.5.1-6_arm64.deb
+Size: 294420
+MD5sum: aaee8a90f5058ec88d875e48fe21d097
+SHA1: d51899222faf5440209e2dd27d3eb8043c09e949
+SHA256: 4cebf3a322faba7d8a408ec663bf57afaca486f91f5c0dd4c7ca1d3671c8754c
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
