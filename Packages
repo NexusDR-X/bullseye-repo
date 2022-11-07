@@ -1351,10 +1351,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 8739
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.1.9-1_arm64.deb
-Size: 3163812
-MD5sum: f1ba1dde0673312ee5a97082968bbf93
-SHA1: 56f7c04c9293b050805d973d3332167b2f187879
-SHA256: 29d13689c6eabc30946d2c777ae9323d9c19f811f68d3e67c23ba356c3ff33d6
+Size: 3163446
+MD5sum: a75925f3cb11d02519e55c9732542038
+SHA1: 83148d22bc756bb4c476d388bcbd12c18b016d50
+SHA256: 057bba50ba0e3021ba6f866419778c5e5d8beedec546841610b51048f7ba6b88
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
