@@ -1399,16 +1399,16 @@ License: See source code license
 Vendor: none
 
 Package: yad
-Version: 12.1-1
+Version: 12.2-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1267
 Depends: intltool,libgtk-3-dev,autotools-dev
-Filename: ./yad_12.1-1_armhf.deb
-Size: 552246
-MD5sum: da4a5425e03795c046c9e63df297b344
-SHA1: 18a4490079a3d208a919bd4a1cbc0515d100b4a1
-SHA256: d3660eff8436c57253f8bf2bfbd9d4d8412b1ae8514065844f0a32466e1d4dc6
+Filename: ./yad_12.2-1_armhf.deb
+Size: 552278
+MD5sum: 220eb78baac699a9c961f74daaf3fd4f
+SHA1: b85e64fd30e99f6dcf30fc929370ff18672be05c
+SHA256: 04fda9db62cf8be4db35206987f9fd2729368c6130d919e472aecf4c12996c1f
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
