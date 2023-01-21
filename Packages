@@ -1387,10 +1387,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1448
 Depends: intltool,libgtk-3-dev,autotools-dev
 Filename: ./yad_12.3-1_arm64.deb
-Size: 573434
-MD5sum: 90d6d51c93f5711fbcb3a8ca2f5d8dcc
-SHA1: b6c68217cefe1b3276126d5a6e2b8d260e5662ae
-SHA256: 364bc525eb1a459f236aabb2b99dbece075382f86b5da9ff524314764b87fcd8
+Size: 573590
+MD5sum: 106c1f911bee22ca33269447fa8650d7
+SHA1: d8977c9f3a2185f1371f22ccd74c16a7730fbeaa
+SHA256: c332f8bb74352965b9058daad03c76023a27d13a8f589e59a26e55abe4ee0e26
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
