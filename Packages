@@ -1405,10 +1405,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1271
 Depends: intltool,libgtk-3-dev,autotools-dev
 Filename: ./yad_12.3-1_armhf.deb
-Size: 555224
-MD5sum: 19043840311c8701f56659e240e9f492
-SHA1: 061c0d41916fcb47d2b03477ca7755bf91a7257c
-SHA256: 6542d3149a5c9c16014f1d58c8c29dbf081f0059674625a26e458e62fd772099
+Size: 555208
+MD5sum: e8aa832b6944e000d5735c008c1825bd
+SHA1: 5837685e1451b8b7cafc8a7f6382a0d5922b4c43
+SHA256: 260c0e61253e0338bd62c6d43862aca223cee0f4026741bebeec0dc3c97c0bb7
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
