@@ -1291,16 +1291,16 @@ License: See source code license
 Vendor: none
 
 Package: wfview
-Version: 1.60-1
+Version: 1.62-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 2880
+Installed-Size: 3436
 Depends: qt5-qmake,libqt5core5a,qtbase5-dev,qtchooser,qtbase5-dev-tools,libqt5serialport5,libqt5serialport5-dev,libqt5multimedia5,libqt5multimedia5-plugins,qtmultimedia5-dev,libopus-dev,libeigen3-dev,portaudio19-dev,librtaudio-dev,libhidapi-dev,libqt5gamepad5-dev,libqcustomplot2.0,libqcustomplot-doc,libqcustomplot-dev
-Filename: ./wfview_1.60-1_armhf.deb
-Size: 1878746
-MD5sum: 9f4a06761b672c61da77191a0cfbcbf9
-SHA1: 85b98d9ed8cb958ec840bc987ae131ecd961eea5
-SHA256: ddfb2a93df01b8295a85901c1c450df40fea583e212b6a6921332660138dba76
+Filename: ./wfview_1.62-1_armhf.deb
+Size: 2369614
+MD5sum: 049bbcb3d2689cc2240f7fde346ba192
+SHA1: f72f86a554ad98def1783449937746371d9dab4e
+SHA256: 289473935cd86dfda65132a7218f90b3dddd28cf5e768b6251e4ea2230cfe6ec
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
