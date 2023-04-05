@@ -986,24 +986,6 @@ Vendor: none
 
 Package: libhamlib-dev
 Version: 4.5.4-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 355
-Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.5.4-1_arm64.deb
-Size: 91336
-MD5sum: 1e4efc747620cb9b7ca22a94b726f823
-SHA1: 88face1507038a33785c31bf1d978d6bdc193fdd
-SHA256: a472fcddee4206ae129244372b65ce44e8760ca61d3dff4726acb025e20502f2
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: libhamlib-dev
-Version: 4.5.4-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 355
@@ -1017,6 +999,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: libhamlib-dev
+Version: 4.5.5-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 355
+Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
+Filename: ./libhamlib-dev_4.5.5-1_arm64.deb
+Size: 91314
+MD5sum: 6e1fa89e3fa96f78f3a60671d02116d6
+SHA1: 5f35f93268368e07f10cb8b510ce02442d335cba
+SHA256: 726cccd87c33458c85d2a8afa5877bb62120966e36bf5f22fe5555d5e929f383
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1039,16 +1039,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib-utils
-Version: 4.5.4-1
+Version: 4.5.5-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 3657
+Installed-Size: 3658
 Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
-Filename: ./libhamlib-utils_4.5.4-1_arm64.deb
-Size: 1262108
-MD5sum: b0e5ff85296f3f30d8c9dfbf2b48a16f
-SHA1: 6d2925124c545a18a5a89504fb7db8fbec713659
-SHA256: 5f3dce90c19c283cbcde56aa69388f324283507422335f82c83adf20d0a25424
+Filename: ./libhamlib-utils_4.5.5-1_arm64.deb
+Size: 1262432
+MD5sum: 504e00746e0ede01ac3f8e37fa453b8b
+SHA1: e6af568cbe7414bbbb38dfb7701c278dfd019d1f
+SHA256: 1392b074e6445426b09426b7a12bc679a545cc303b4ba37612c8daa58a62f1a8
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -1075,16 +1075,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib4
-Version: 4.5.4-1
+Version: 4.5.5-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 76382
+Installed-Size: 76598
 Depends: libusb-1.0-0-dev,libc6
-Filename: ./libhamlib4_4.5.4-1_arm64.deb
-Size: 17700578
-MD5sum: f0e4506c9509d1364c684c2404291513
-SHA1: d66066e9f1137620399bcac00104b85f8292719c
-SHA256: 78d75a97fca03c5d9c3fa60e06da9153e54e2448361ae6c58ec4a3bdc1686e76
+Filename: ./libhamlib4_4.5.5-1_arm64.deb
+Size: 17773312
+MD5sum: 9bfeb1adaacc306decf574ad17018a75
+SHA1: 99e265b4c70c0df230c6f5a7f47cee1cfb71b634
+SHA256: efaaf6b3532d2a17faa2d5310287e705364234c5c5551b1bd8ec620f3cd398af
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
