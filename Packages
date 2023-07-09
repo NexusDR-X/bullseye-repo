@@ -1369,10 +1369,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7901
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.1.9-1_armhf.deb
-Size: 3010698
-MD5sum: 634e23b75c6c02727bf9582abb35b240
-SHA1: 978781ba2aa4e2bd8617e679ffdad5044d6385e1
-SHA256: f75cf12ed4fb9820d806560fb65bd651f283874d88f009ecfa1dc48e18bbca0b
+Size: 3010740
+MD5sum: 54f78b03fbca26145eccac9480667e45
+SHA1: 3ca588a13a14bec2f4bdf0f3d50d3a837c57fd37
+SHA256: a5c16a210e49d20e8b4202198787a83050c8758d918e23b2eaaeec841cab7720
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
