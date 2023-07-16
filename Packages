@@ -1291,16 +1291,16 @@ License: See source code license
 Vendor: none
 
 Package: wfview
-Version: 1.62-1
+Version: 1.64-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 3444
+Installed-Size: 5108
 Depends: qt5-qmake,libqt5core5a,qtbase5-dev,qtchooser,qtbase5-dev-tools,libqt5serialport5,libqt5serialport5-dev,libqt5multimedia5,libqt5multimedia5-plugins,qtmultimedia5-dev,libopus-dev,libeigen3-dev,portaudio19-dev,librtaudio-dev,libhidapi-dev,libqt5gamepad5-dev,libqcustomplot2.0,libqcustomplot-doc,libqcustomplot-dev
-Filename: ./wfview_1.62-1_arm64.deb
-Size: 2368650
-MD5sum: 82ed1cc60bb46133cf39ed0752f41579
-SHA1: ca858def0fa00386c963c95c59d8c91c2c6e17a0
-SHA256: 238a3b041522f60e470a259cb0288e021e952b35b289dbf17fd3ccae498e5ecd
+Filename: ./wfview_1.64-1_arm64.deb
+Size: 3992742
+MD5sum: 820b0129f44cde38a996c20c33d14a50
+SHA1: 1167ca2e8f956f38c8a1ea674bc2684ec98dfe2c
+SHA256: c8e013a2cb1cb05c217679ec19cd765a8a1eaaeeb4f3bc29f3b556d0e7d8f2ac
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
