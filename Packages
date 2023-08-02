@@ -41,10 +41,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 819
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-apps_2.0.1-1_arm64.deb
-Size: 321084
-MD5sum: f5011c1af17fa4c585e10b2a6408d250
-SHA1: 3d713e440da995c77b52d34093185a5b047f133c
-SHA256: 406d1425f9fc4b8aa4981ce3241a4d33531a148ddea88a5f18a9fb49ff00c73b
+Size: 321082
+MD5sum: 10ab5f6db9293b83736b9e0c096240ff
+SHA1: e5fb8dbb3f741c856de1c4246453f348f55221d4
+SHA256: f782fa21ac795d88c3cbf3adfb9e5a503726a75df95466efdc114e63ed051c46
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -77,10 +77,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1600
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-tools_1.0.5-1_arm64.deb
-Size: 583836
-MD5sum: 1348610eb06197c9ef8a88f0eba8e35d
-SHA1: cae697dd941432af1d551635719db52d17759c42
-SHA256: d59e2fbd5d69eeba20a97dfb57e416364fd211e4abe87ea4f3be79c4a725d327
+Size: 583844
+MD5sum: fe47e70d43f1a86de682ebee174f5a8f
+SHA1: f24317287ce3c13e8e57b710e296e68d16ed658a
+SHA256: ceee2fcd658c8518dcafc143b3363c29aec1fce9e2fe4e3d1f9b084c47d1fb0d
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -950,24 +950,6 @@ Vendor: none
 
 Package: libax25
 Version: 1.1.3-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 589
-Depends: zlib1g,zlib1g-dev
-Filename: ./libax25_1.1.3-1_arm64.deb
-Size: 176908
-MD5sum: af1d3909c25e971f70a3502f93e10ad2
-SHA1: 9fa68caca647250612e99f965931f38e3c4fbc23
-SHA256: 4ccb66c179eef323e06550a193d9fa763cf2c637f17e1bdbb5faa3ce0e9dbc42
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: libax25
-Version: 1.1.3-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 422
@@ -981,6 +963,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: libax25
+Version: 1.2.0-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 590
+Depends: zlib1g,zlib1g-dev
+Filename: ./libax25_1.2.0-1_arm64.deb
+Size: 177146
+MD5sum: 610df3597f1caeb82ac703f1cee6b55b
+SHA1: 0b863ec5fb007d61633c15025daf3c1a089aa23e
+SHA256: 83f7ae9823a0e94eddb0d83cc8c2ef7bbdf3aca16e88acae309568dc08e7b953
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
