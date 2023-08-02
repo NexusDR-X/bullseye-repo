@@ -36,24 +36,6 @@ Vendor: none
 
 Package: ax25-apps
 Version: 2.0.1-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 667
-Depends: libncursesw5,libncursesw5-dev
-Filename: ./ax25-apps_2.0.1-1_armhf.deb
-Size: 298072
-MD5sum: 37a0aaedf28136c52fc8b964f764effe
-SHA1: 762b35ccf12486f354f6f685315edba82d8f0f34
-SHA256: 3fd9befcb8fd53ccefb5daeb3f0cf054b5e0321d7215f9ebd6e2389a27cadb06
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: ax25-apps
-Version: 2.0.1-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 819
@@ -70,6 +52,24 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
+Package: ax25-apps
+Version: 2.1.0-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 668
+Depends: libncursesw5,libncursesw5-dev
+Filename: ./ax25-apps_2.1.0-1_armhf.deb
+Size: 299042
+MD5sum: 5eb8cae24a434e03f32b008b4f4f2145
+SHA1: a0b2c65ea4aa246cf20d494684128206b29a8fe7
+SHA256: 98a941f54807a5884f966ac00ca9d0aba7b355dff2eb01083b69d670022d8fce
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
 Package: ax25-tools
 Version: 1.0.5-1
 Architecture: armhf
@@ -77,10 +77,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1350
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-tools_1.0.5-1_armhf.deb
-Size: 533798
-MD5sum: b1697a3f7a801c13ce7942196793351b
-SHA1: fb82a2a6b4a05215e4820d49ad9849a1c3002934
-SHA256: 94cc84a69e95636875e2f0a9c56f6ba02bfb1d77bbb3fd5bb80de0a8c549590c
+Size: 533786
+MD5sum: 4141facac41d098c59113f76b6b2c879
+SHA1: b8f0ea9ed2944e8a713528c83aba259e91a0953f
+SHA256: fb1b8d44b4c71e26c3364c6de25ebaf1b975e78cc5744e3ae15b414e2fa646be
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -973,10 +973,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 423
 Depends: zlib1g,zlib1g-dev
 Filename: ./libax25_1.2.0-1_armhf.deb
-Size: 159064
-MD5sum: 6c7aecfe502d14945f0202b9c91c2ca0
-SHA1: 2d947a1b5348c501249c4a3c43ad2b5d72c56f24
-SHA256: 2ec657df4e65724907192f5f93888373ed63081f948d47f00f5436d0007f6afc
+Size: 159062
+MD5sum: caae99ecb228dd92972221ec840faaf1
+SHA1: ba60781a46df17b3673d6c81852ae4ac4882629a
+SHA256: d8e49adc663cde1871d436df54027ecd29f4bb04f6db233f208f140564b356a4
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
