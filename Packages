@@ -1363,16 +1363,16 @@ License: See source code license
 Vendor: none
 
 Package: xastir
-Version: 2.1.9-1
+Version: 2.2.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7833
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
-Filename: ./xastir_2.1.9-1_armhf.deb
-Size: 2988874
-MD5sum: da0060d576c5c9f96cc342af9a98b738
-SHA1: 9ab25d380254f99acf5316169842ac79d8cbb012
-SHA256: d3fb49ae25f5f8b75f2aaa76dcf48437fa054f597ecc3d1d516b58800ed12f34
+Filename: ./xastir_2.2.1-1_armhf.deb
+Size: 2988890
+MD5sum: 2e9473d66ead14f8df53f08b131423dd
+SHA1: df2f7434306b0745e3d081a2c8d63b8f32bfce2b
+SHA256: 947ff4790fb1c74eb67ccf02c948b4cbe77c6d563efbb532cb54228e7c4d0b42
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
