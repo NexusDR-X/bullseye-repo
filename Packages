@@ -770,24 +770,6 @@ Vendor: none
 
 Package: flrig
 Version: 2.0.02-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 102767
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flrig_2.0.02-1_arm64.deb
-Size: 26896574
-MD5sum: d9bfa1f93d3834668a67dfeb5c2f29ab
-SHA1: e2ee140f5acd1ba5fa4f4a7cd94c7fdbfbeba0c1
-SHA256: c70f36aa13559a5b91a9fdbc0ab67610663aafd4dac6bc748e86454f394d54a5
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: flrig
-Version: 2.0.02-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 79693
@@ -801,6 +783,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: flrig
+Version: 2.0.03-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 103658
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./flrig_2.0.03-1_arm64.deb
+Size: 27151910
+MD5sum: 334719e1326e2c093b52687d8945b183
+SHA1: 25711286bf568ecbc63465af7d3983cc02af9077
+SHA256: beb60a41fa8440d5d9bfb74d610be4a8f0e7580cafcd177a3410e3eecf7ef2c6
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
