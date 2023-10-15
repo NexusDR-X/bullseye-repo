@@ -614,9 +614,9 @@ Installed-Size: 10796
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flamp_2.2.09-1_arm64.deb
 Size: 3298764
-MD5sum: 5727cbf42e986c211953fb513eb62f71
-SHA1: f8276a623dd6de90282a0e2eb478131feab46c0c
-SHA256: dacd8f00ef4dcd40d42822f3df2845b3dd8eab4625627522d335ca3739692503
+MD5sum: 9f99c8b2bbc3eab82b5e06a2669af086
+SHA1: 0ff9ad42cdcf000f0f0c70532b23868a6cd14ed3
+SHA256: 67677d6d2d7ff3b8caed07f40164391dd7bf7260fbb94e8cf3f524ebb3d56b2b
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
