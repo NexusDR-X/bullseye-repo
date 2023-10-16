@@ -811,10 +811,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 757
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flwrap_1.3.6-1_arm64.deb
-Size: 258298
-MD5sum: 8f5e372dea5c560cf0581f0a82707cff
-SHA1: c36ec777264586a1dd9a95adb5454a3ce1e8a493
-SHA256: 0e9c4eeb865dcc8485d1ba08d4193682f1de815052c12ac8cef0dc4eb9c8a697
+Size: 258312
+MD5sum: 67e1ce058bca08ee32f302a66e4e5733
+SHA1: a3b6e428a2538fafcfc74fb0a3e647fa84f0d005
+SHA256: 7f75a5512a34471b6ce659ee586367d05d94f45d5ac1005c0825aefe1c721328
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
