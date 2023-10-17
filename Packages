@@ -721,10 +721,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 6192
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./fllog_1.2.7-1_arm64.deb
-Size: 1973516
-MD5sum: c96ccab93eadf537e6bbd14f38af9bf2
-SHA1: 503708fb1726e540f91b8837b731931cc397d25f
-SHA256: 80d943375f8eba12898f54cdb84a281312562a9ac141b8698605861621b1ede8
+Size: 1973506
+MD5sum: 2a6d91e57b1d563d561bb0cb31d44e1d
+SHA1: 582c7448bf61bb02aa27500ff3b8c614e2ea0bf0
+SHA256: a9e56095fb6ba583b267dd3c78cf3e60557e90bbf819d14f28899fc3eea67190
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
