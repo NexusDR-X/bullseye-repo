@@ -775,10 +775,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 80696
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flrig_2.0.04-1_armhf.deb
-Size: 26870370
-MD5sum: dd4e0c4097deb199c4edba2325b61a99
-SHA1: c56cb1295ca8cd7794c231243d0b9868faad8339
-SHA256: f5630d88340e6c18b43ffe6eb4e33066fea63b2dcf52a24de009fa5b25950398
+Size: 26870368
+MD5sum: 69889bcd34881ee8073920b3b46db3b5
+SHA1: ac08e590988ace821cf034efa96ad1a9c6a2a87a
+SHA256: 2365eb70986246158624f6752e332979990a793ba73b5837a0bed2deed26f0b4
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
