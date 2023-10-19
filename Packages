@@ -1135,10 +1135,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 10937
 Depends: libax25,libhamlib-utils,libhamlib4,ax25-tools,gpsd
 Filename: ./pat_0.15.0-1_armhf.deb
-Size: 4464324
-MD5sum: a6469e5f4d4eac89efc92aecf9960ff8
-SHA1: 916b98b91a924040e3849ccca4eef25db2043867
-SHA256: 6db583e2155a27c757b9cd10e770cd2a981874d649f2a5d0fdcc0069abf803f5
+Size: 4464362
+MD5sum: 3ca39b791d5546998bb51b94c8f78d68
+SHA1: 119e8382824d2b531dd3a00e9d64632d08d902af
+SHA256: 902d5d0a2de5e652decd91ec6eabafa9d9d38d70a4d903be21b30cf9e21ff0e2
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
