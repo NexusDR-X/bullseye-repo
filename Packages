@@ -661,16 +661,16 @@ License: See source code license
 Vendor: none
 
 Package: flamp
-Version: 2.2.09-1
+Version: 2.2.10-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 10796
+Installed-Size: 11161
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flamp_2.2.09-1_arm64.deb
-Size: 3298782
-MD5sum: 1ed102b4db48698b8f50390bc0ee9cbb
-SHA1: e88ae04258c11a661bd9c49f15894d58d5967e34
-SHA256: afde368623a8c297bbd971878dd3f781e42985e12fd9393b055b00d8894108bd
+Filename: ./flamp_2.2.10-1_arm64.deb
+Size: 3410608
+MD5sum: c2b7c43922bb3a83c89b6f16d2820da3
+SHA1: 6e081862c3707f50fb50b73fdfba1ed09cb82d0c
+SHA256: c11a416168acf127ad1ca766effb5d8cb8f29c9292d235d2ec08b82bdd47721d
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
