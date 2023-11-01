@@ -733,16 +733,16 @@ License: See source code license
 Vendor: none
 
 Package: fldigi
-Version: 4.2.02-1
+Version: 4.2.03-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 74471
+Installed-Size: 74464
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./fldigi_4.2.02-1_armhf.deb
-Size: 27093524
-MD5sum: 781fd1340ee6dc06b2dd8b55b3ab56fc
-SHA1: 5513490fe74777371e05a0df28ca81e608571f91
-SHA256: 4523e99f9011a3a172a06d572996b059d8f29925438d2f329462d63db97dea1a
+Filename: ./fldigi_4.2.03-1_armhf.deb
+Size: 27095990
+MD5sum: fde85d3d82d87161eac0a18cee6550db
+SHA1: 0bbb6ef219119b433a2c943ed8a2416d12981346
+SHA256: c1ef87eb840ef62b44efcf6e13333b2deb5de3c946c916755666002680da1e0d
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
