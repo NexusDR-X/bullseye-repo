@@ -667,10 +667,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 9334
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flamp_2.2.10-1_armhf.deb
-Size: 3415882
-MD5sum: ea900ade8c7a23d3ab9e9bcdae44db69
-SHA1: 692fab8e4876820b49bc66307ce4d755c46f0a1a
-SHA256: 917cc434dfb0217b7bc4c0a0b8845a16f8aad4bb73d775b9a8dc3dade62b4ace
+Size: 3415868
+MD5sum: 34b779cd20f7e065a5866af3c6980170
+SHA1: c6dc3dea9dbc5cc25c8c40b8aa6ff7c396e77771
+SHA256: 62d3d58ae1062e2fd829148b579dcf9080b60b365a9a676dc387d95cdfe74c35
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
