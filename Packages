@@ -697,16 +697,16 @@ License: See source code license
 Vendor: none
 
 Package: flcluster
-Version: 1.0.8-1
+Version: 1.1.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 6755
+Installed-Size: 6871
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flcluster_1.0.8-1_armhf.deb
-Size: 2423304
-MD5sum: c6d0ee06f6d897610673ba527b16c8cc
-SHA1: b22daaaeee6f58a04df560e8417d3b0e8a3b4ac9
-SHA256: 5b180bdbec4ddd3ad1b3ddf0c65d374042a49b5679779d3e755bbd6f44b451df
+Filename: ./flcluster_1.1.0-1_armhf.deb
+Size: 2456206
+MD5sum: 5487df9236b4584ae5013e63d0a0ce9f
+SHA1: 0d0604234863c62fbcde59a2a6aeeb3818db23d9
+SHA256: de1c463496764e664011dd16eb8aa815b42e4231c8cc9c4ae651cd37706c2439
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
