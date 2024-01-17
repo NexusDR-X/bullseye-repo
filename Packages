@@ -769,16 +769,16 @@ License: See source code license
 Vendor: none
 
 Package: fllog
-Version: 1.2.7-1
+Version: 1.2.8-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 6192
+Installed-Size: 6204
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./fllog_1.2.7-1_arm64.deb
-Size: 1973510
-MD5sum: d7349a478bf24fcba2285c3e9a39a34f
-SHA1: a5451bdb6b6e4822aa6dc32281318428ab11aa01
-SHA256: 59bdbf31167c0414e298727265994ed93a060e5580d2b9b5e3370fd204fdce5e
+Filename: ./fllog_1.2.8-1_arm64.deb
+Size: 1974454
+MD5sum: 499a459c8d284347b2ef090eb4568642
+SHA1: 95a6c5402bdacd03ef36db15843c2f031d068fdc
+SHA256: 7c3d17401f45703c50e529419fd511d7dba5f3e8e9ef431a3dcfd1eeb0a2ba24
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
