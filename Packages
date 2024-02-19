@@ -721,12 +721,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 74780
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./fldigi_4.2.04-3_armhf.deb
-Size: 27191590
-MD5sum: 3c006993c0cd7e332f1c9c150cae64fc
-SHA1: 280490b7fb121c3f63edc74598da56d1ea04ac87
-SHA256: c05a86af1fef0e59f4560389c7b6674f45e6a3973351cd42e45dcd31bceab8b9
+Size: 27191550
+MD5sum: 7ec0440311c788453c1d41f72ba7dae2
+SHA1: 3df5340caa2608d736f8d22af896f52f452722cf
+SHA256: 8ff58b010e8be6837cd5d3b3a5a09d73c8897095688996253622ae6ba6398cd0
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
