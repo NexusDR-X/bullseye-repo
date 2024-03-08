@@ -739,10 +739,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 74780
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./fldigi_4.2.04-1_armhf.deb
-Size: 27190714
-MD5sum: a2d69afefafe7b0bebf456a635301133
-SHA1: 608dad8d8bd73fdeebf8cf04bc523fb60e9f0d24
-SHA256: 6391be01a3f1b5b0043d05513d48d717d73848642960ab9d109ada3026993c6f
+Size: 27190712
+MD5sum: 1715c736f5172b377b3e8bf860d46bdb
+SHA1: 4aaae40b7bc152a8e2980a27a8697ba32473b534
+SHA256: 907b82a86932d1a66e915d3135307064d2d3c3c1d59912b47aedad76eb731cbc
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
