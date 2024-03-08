@@ -1315,12 +1315,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 205
 Depends: libax25
 Filename: ./uronode_2.15-1_armhf.deb
-Size: 79440
-MD5sum: 37bfa9b077ac8065a3317cb038705bbf
-SHA1: 39621be2602e8a6979745f09215b356b255a6bea
-SHA256: 696cbcde735ee494f5943cd5de043f16267f71f8bdf0e61ca89c95c483b85980
+Size: 79432
+MD5sum: f8917ee606bb4269ef0e48476c2ecfed
+SHA1: dc8b374c894971b1c6da55318762ef373588c32e
+SHA256: 4b4c4ac959c28f956de072cc1334b6e57a1d28dc580fdc4c55cb80d9e6749785
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
