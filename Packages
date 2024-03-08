@@ -1153,10 +1153,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 3573
 Depends: ax25-tools,perl
 Filename: ./linpac_0.29-1_armhf.deb
-Size: 1403398
-MD5sum: 7c3e3920127a2b0c0b00783fa29c61c2
-SHA1: 1504cee9a4b1c8a2662e51509bf6b2b46d469ba5
-SHA256: 3c88cc6df5016f4563ac5f407a5b769f1a6638203d6ced9c7fd7cde0f1fcfd27
+Size: 1403396
+MD5sum: 75b5cc5bbfcbe2782532c0f9ea74fd8b
+SHA1: 3cc17431bcdc1a9ed837c07088eb61f56609e9d0
+SHA256: f5589c1cf451a0b1b5fb9d715a4723d40a0516bcaec1b1aee9795d455ccd252f
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
