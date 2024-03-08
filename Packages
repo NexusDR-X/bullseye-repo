@@ -1153,12 +1153,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 3573
 Depends: ax25-tools,perl
 Filename: ./linpac_0.29-1_armhf.deb
-Size: 1403386
-MD5sum: 2012563fd92c42da0157c76361c40dd7
-SHA1: 1502ccefa0b712728b831c8352c49b06baec211e
-SHA256: 8721c7101c12bd10035331ef775b3f0b97d2c3d2de569a2a53f4d526c95dc756
+Size: 1403398
+MD5sum: 7c3e3920127a2b0c0b00783fa29c61c2
+SHA1: 1504cee9a4b1c8a2662e51509bf6b2b46d469ba5
+SHA256: 3c88cc6df5016f4563ac5f407a5b769f1a6638203d6ced9c7fd7cde0f1fcfd27
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
