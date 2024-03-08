@@ -757,12 +757,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4940
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./fllog_1.2.8-1_armhf.deb
-Size: 1894858
-MD5sum: 066bcd66bd322aac56dc6b05df84bbf1
-SHA1: e933d08d4482970c8855e62c03b3e0839d25d0d6
-SHA256: c5400ee6f96d5fb3d2334de128eecadda81e182e2dba2b8f332b57460260670b
+Size: 1894850
+MD5sum: 8f62114c1bbfaac7155bb96295b1feb6
+SHA1: 0dc8dce4cc8d6e1fe80c47960b2f0835a57e3492
+SHA256: b406f18eb41486650b46922e25e78846226dd2bed1bfaf2e499be43823253ae4
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
