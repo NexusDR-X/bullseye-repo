@@ -113,12 +113,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 494
 Depends: ax25-tools,perl
 Filename: ./ax25mail-utils_0.16-1_armhf.deb
-Size: 210872
-MD5sum: 4e360eb001fa4475c06b9a4be12c325f
-SHA1: 065187c661bbd7e9416f7717e56050fcd3bfe29c
-SHA256: 002dd2d21ca60e6990ec8c37161ddb8b97b76bb2cfd426117b9c10755b25536a
+Size: 210890
+MD5sum: 81b50072b5f9b78ad499cfa24c839f76
+SHA1: e35133d8407685c8f6b9be62bd37bd22e06a8c00
+SHA256: 8a80a5b63b6d6a92a216d4c4fadb2ed884ae8666f8664ff93705aca342316a7d
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
