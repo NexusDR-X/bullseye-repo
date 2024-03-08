@@ -841,16 +841,16 @@ License: See source code license
 Vendor: none
 
 Package: flrig
-Version: 2.0.05-2
+Version: 2.0.05-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 104278
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flrig_2.0.05-2_arm64.deb
-Size: 27315220
-MD5sum: f5f73de112de529e2a3482cd4cf412b6
-SHA1: 2f1a47a68231570794d20bc5be298f25ff8217ad
-SHA256: 93b8430749f6d8c7a0dd105667ec9519b6ebe62d35f560dd660206249c7c4d85
+Filename: ./flrig_2.0.05-1_arm64.deb
+Size: 27315212
+MD5sum: 7384d3e0f97fe0aae4534e674c4608ce
+SHA1: a40ab4e969d20dc833730012bb88c429f2504403
+SHA256: 3e67f60d93657f9c0c568033450461b05e076e9afd4012f16d6458da7ecb2d9c
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
