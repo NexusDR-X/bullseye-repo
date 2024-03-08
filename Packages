@@ -793,12 +793,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 29358
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flmsg_4.0.23-1_armhf.deb
-Size: 9825444
-MD5sum: 0a70e4af8a36a2f0ed29716cd310ac87
-SHA1: 14c5233bb48d240c6af5e3b9f68c1f17e1d3e2e1
-SHA256: db34a0021db5083ae2925ae10d88ba249d24233d13555bfe0653c6230647ab01
+Size: 9825452
+MD5sum: 1668f9e44304cdc96a3d7e8f3e5a105c
+SHA1: b4b3febc353f5b82a2f544755242cef904c54204
+SHA256: bff5648491268fb89d5e42d27123596d52b317ed5196b798f8312dc351ef4216
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
