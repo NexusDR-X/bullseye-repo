@@ -1153,12 +1153,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4340
 Depends: ax25-tools,perl
 Filename: ./linpac_0.29-1_arm64.deb
-Size: 1475434
-MD5sum: 33a656e3a49bd6b6ff7fded11ffc51d7
-SHA1: 6fdec1c954a621dd951ed1f5bd2e7164f75af0d6
-SHA256: 1f5031cd2468da4dd978ae6a5ddf7b1db53ac98533f694732ccea346f5d1709d
+Size: 1475444
+MD5sum: 6997624c59a7c262dec8f38105a1166a
+SHA1: b522bda5024139020e16a9fbebc37b962e53466e
+SHA256: 2102ca7936001ce3a009cfa015f16267799893c09ec2bdd73aab5ab0bd348e9c
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
