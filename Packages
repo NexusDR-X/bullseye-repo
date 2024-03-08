@@ -649,12 +649,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 11161
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flamp_2.2.11-1_arm64.deb
-Size: 3410740
-MD5sum: 2e01bf146548b6f9e29785c91dde4ab6
-SHA1: 2d4538b52b590e3eb1a473ace07e6671ac7d9560
-SHA256: b168e6a4e2191d5c77108bb487ace3a65c37a457b44df6f4390252e3848aaf90
+Size: 3410752
+MD5sum: a29ae200fac695727def3c861871b8ee
+SHA1: c1fbfca23d91c44ed9a37eb248c7d1f4bb0fc748
+SHA256: df2efe979bd70223be3f432c12b11171ba81f978206e11598016feeda4435c39
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
