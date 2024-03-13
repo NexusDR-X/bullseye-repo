@@ -793,10 +793,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 29358
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
 Filename: ./flmsg_4.0.23-1_armhf.deb
-Size: 9825430
-MD5sum: ca612c9190d8680c24596ae42f53a9fe
-SHA1: 34a8176e137f986c608ee7122abd5647b11612e3
-SHA256: eb89180da0cc21aa438edf3a8733f60a2080c7db971ec34191374067b33d861f
+Size: 9825720
+MD5sum: c8e37c56b0a1924f9a34dfce63c17532
+SHA1: 76c0c31c91b06b12a878471b03affc0b8e096e92
+SHA256: 0820c88100b690e60a0b85b87597aa2815e3dcf70b152b05878e23bffed4601c
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
