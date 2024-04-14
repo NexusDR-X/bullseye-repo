@@ -1201,18 +1201,18 @@ License: See source code license
 Vendor: none
 
 Package: pat
-Version: 0.15.1-1
+Version: 0.16.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 10981
+Installed-Size: 10961
 Depends: libax25,libhamlib-utils,libhamlib4,ax25-tools,gpsd
-Filename: ./pat_0.15.1-1_armhf.deb
-Size: 4481668
-MD5sum: 081771d3ff1a4ae9ee5bebc418f65eef
-SHA1: 805d75e74e57795c606ac0553bc94e4247244e8d
-SHA256: c8cc5511b5a75117cff5e844f50d5799e221b98a43728e15cd227b8b9edf5f14
+Filename: ./pat_0.16.0-1_armhf.deb
+Size: 4470042
+MD5sum: 3e40755d1d726d9689c4b69a8092b8b5
+SHA1: fbf258717a8d3de9d8e0537bb7ba89735b8693a2
+SHA256: 8dff33716bb0e2c955a55374112d5bae2cb87765ad385eff607ce6d1783fbce3
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
