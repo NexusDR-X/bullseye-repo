@@ -1,23 +1,5 @@
 Package: arim
 Version: 2.12-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 6234
-Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
-Filename: ./arim_2.12-1_armhf.deb
-Size: 5657550
-MD5sum: ce88e2c3eb38d08bbca0ef291d1d6671
-SHA1: 6258372aa7f8debdcce938ae3c21ae877f956779
-SHA256: c4bcdf50d9c2940814e8b1fae259a410f7d8e739a505faae67bf8281d422c2c9
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: arim
-Version: 2.12-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 6288
@@ -34,21 +16,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: ax25-apps
-Version: 2.1.0-1
-Architecture: arm64
+Package: arim
+Version: 2.12-1
+Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 819
-Depends: libncursesw5,libncursesw5-dev
-Filename: ./ax25-apps_2.1.0-1_arm64.deb
-Size: 321344
-MD5sum: 77a911d5696e4f6ed70e405a6dc8c7f2
-SHA1: a5da1ab3eaf72293807db6ab5663608905da4ea3
-SHA256: 9058f4bc37664aace03c2fe25d1c8113b2e924acb6a5d55c763b55fb53b5793a
+Installed-Size: 6234
+Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
+Filename: ./arim_2.12-1_armhf.deb
+Size: 5657550
+MD5sum: ce88e2c3eb38d08bbca0ef291d1d6671
+SHA1: 6258372aa7f8debdcce938ae3c21ae877f956779
+SHA256: c4bcdf50d9c2940814e8b1fae259a410f7d8e739a505faae67bf8281d422c2c9
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -67,6 +49,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: ax25-apps
+Version: 2.1.0-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 819
+Depends: libncursesw5,libncursesw5-dev
+Filename: ./ax25-apps_2.1.0-1_arm64.deb
+Size: 321344
+MD5sum: 77a911d5696e4f6ed70e405a6dc8c7f2
+SHA1: a5da1ab3eaf72293807db6ab5663608905da4ea3
+SHA256: 9058f4bc37664aace03c2fe25d1c8113b2e924acb6a5d55c763b55fb53b5793a
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -108,24 +108,6 @@ Vendor: none
 
 Package: ax25mail-utils
 Version: 0.16-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 494
-Depends: ax25-tools,perl
-Filename: ./ax25mail-utils_0.16-1_armhf.deb
-Size: 210880
-MD5sum: cb6c2be50d12bd967c7121e648176b57
-SHA1: f4ea51e916b38abcd7bcccb4340bf2da68027aae
-SHA256: 86256fdda1ba0e44ba4d4c8bb15fccc7ca6f6840893953792a5513e0c681e33a
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: ax25mail-utils
-Version: 0.16-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 559
@@ -139,6 +121,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: ax25mail-utils
+Version: 0.16-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 494
+Depends: ax25-tools,perl
+Filename: ./ax25mail-utils_0.16-1_armhf.deb
+Size: 210880
+MD5sum: cb6c2be50d12bd967c7121e648176b57
+SHA1: f4ea51e916b38abcd7bcccb4340bf2da68027aae
+SHA256: 86256fdda1ba0e44ba4d4c8bb15fccc7ca6f6840893953792a5513e0c681e33a
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -680,24 +680,6 @@ Vendor: none
 
 Package: flcluster
 Version: 1.1.0-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 8826
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flcluster_1.1.0-1_arm64.deb
-Size: 2604212
-MD5sum: a51d6582deef089b425289849605b25e
-SHA1: 7baa3d81b3044eb1d988d9798cc98df6d026fa0d
-SHA256: 93f36ce132dc88f16b1f7849cf7a7803156d8adbf80b0e16a6fe37e24c70f37b
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: flcluster
-Version: 1.1.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 6871
@@ -714,17 +696,17 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: fldigi
-Version: 4.2.05-1
+Package: flcluster
+Version: 1.1.0-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 96976
+Installed-Size: 8826
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./fldigi_4.2.05-1_arm64.deb
-Size: 27947396
-MD5sum: b78214ea7cd8ee574c512207fddd03c3
-SHA1: 2402842795b6ca3c4ebf45c083140406dcf2f20c
-SHA256: 85bbe68e858ad95a71f9d3c30066527322b595ab701a9846287740ce102136f8
+Filename: ./flcluster_1.1.0-1_arm64.deb
+Size: 2604212
+MD5sum: a51d6582deef089b425289849605b25e
+SHA1: 7baa3d81b3044eb1d988d9798cc98df6d026fa0d
+SHA256: 93f36ce132dc88f16b1f7849cf7a7803156d8adbf80b0e16a6fe37e24c70f37b
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -750,21 +732,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: fllog
-Version: 1.2.8-1
-Architecture: armhf
+Package: fldigi
+Version: 4.2.05-1
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 4940
+Installed-Size: 96976
 Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./fllog_1.2.8-1_armhf.deb
-Size: 1894842
-MD5sum: e0401185ae875eee3584d4d24a2f6c8b
-SHA1: cc4242fc1e7c9ddca78d64a07aad567c508b46ab
-SHA256: b5ae539545898d433e4583d2324d3050a25b4a2f25ad0f944611ba588e0bda86
+Filename: ./fldigi_4.2.05-1_arm64.deb
+Size: 27947396
+MD5sum: b78214ea7cd8ee574c512207fddd03c3
+SHA1: 2402842795b6ca3c4ebf45c083140406dcf2f20c
+SHA256: 85bbe68e858ad95a71f9d3c30066527322b595ab701a9846287740ce102136f8
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -783,6 +765,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: fllog
+Version: 1.2.8-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 4940
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./fllog_1.2.8-1_armhf.deb
+Size: 1894842
+MD5sum: e0401185ae875eee3584d4d24a2f6c8b
+SHA1: cc4242fc1e7c9ddca78d64a07aad567c508b46ab
+SHA256: b5ae539545898d433e4583d2324d3050a25b4a2f25ad0f944611ba588e0bda86
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -860,24 +860,6 @@ Vendor: none
 
 Package: flwrap
 Version: 1.3.6-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 610
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flwrap_1.3.6-1_armhf.deb
-Size: 249614
-MD5sum: 5f7ea5e53fd12d58895d15d5d05d4abb
-SHA1: 2747fe259ce2bbeb1dff9f12000929be1fce0f4b
-SHA256: ca7d9f6df556b6837ee264d165dd040ce87d27bc1f9c69a2f60e3648c9aa7f72
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: flwrap
-Version: 1.3.6-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 757
@@ -894,21 +876,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: garim
-Version: 1.7-1
-Architecture: arm64
+Package: flwrap
+Version: 1.3.6-1
+Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 5897
-Depends: libfltk1.3-dev
-Filename: ./garim_1.7-1_arm64.deb
-Size: 4252762
-MD5sum: c9d8552d7fd82251f03ddaa8bc940a95
-SHA1: 545c97a0aac874a89cd429a1078f734a23d0a411
-SHA256: f4e13dd0cc40c85fc722e85bbae94a63cca48fc4523c18797ad28212d87ae24a
+Installed-Size: 610
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./flwrap_1.3.6-1_armhf.deb
+Size: 249614
+MD5sum: 5f7ea5e53fd12d58895d15d5d05d4abb
+SHA1: 2747fe259ce2bbeb1dff9f12000929be1fce0f4b
+SHA256: ca7d9f6df556b6837ee264d165dd040ce87d27bc1f9c69a2f60e3648c9aa7f72
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -927,6 +909,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: garim
+Version: 1.7-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 5897
+Depends: libfltk1.3-dev
+Filename: ./garim_1.7-1_arm64.deb
+Size: 4252762
+MD5sum: c9d8552d7fd82251f03ddaa8bc940a95
+SHA1: 545c97a0aac874a89cd429a1078f734a23d0a411
+SHA256: f4e13dd0cc40c85fc722e85bbae94a63cca48fc4523c18797ad28212d87ae24a
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -968,24 +968,6 @@ Vendor: none
 
 Package: js8call
 Version: 2.2.0-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 33752
-Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
-Filename: ./js8call_2.2.0-1_arm64.deb
-Size: 12660914
-MD5sum: 9eee24e8c94115aaf0eabf1fdfed7f40
-SHA1: f65c286b1beb19bbc43cb1135d30da11fd137e01
-SHA256: 8354f848c9d5c5f0160853dfa9d6e3e307df46b14bcb47859bc0414f9f8381ca
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: js8call
-Version: 2.2.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 18151
@@ -1002,17 +984,17 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: libax25
-Version: 1.2.2-1
+Package: js8call
+Version: 2.2.0-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 590
-Depends: zlib1g,zlib1g-dev
-Filename: ./libax25_1.2.2-1_arm64.deb
-Size: 177168
-MD5sum: ff09ef66d6de7677d76c1c53ddf198a8
-SHA1: 90817d55ad2590504f848f92b059af0fee54e974
-SHA256: 425c199276d56c96deb25855d21dcabf1398e1ab4d1c1992a78718809110c9f9
+Installed-Size: 33752
+Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
+Filename: ./js8call_2.2.0-1_arm64.deb
+Size: 12660914
+MD5sum: 9eee24e8c94115aaf0eabf1fdfed7f40
+SHA1: f65c286b1beb19bbc43cb1135d30da11fd137e01
+SHA256: 8354f848c9d5c5f0160853dfa9d6e3e307df46b14bcb47859bc0414f9f8381ca
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -1038,21 +1020,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: libhamlib-dev
-Version: 4.5.5-1
-Architecture: armhf
+Package: libax25
+Version: 1.2.2-1
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 355
-Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.5.5-1_armhf.deb
-Size: 92234
-MD5sum: ea09a110c95f8484420cb306f2d6cc27
-SHA1: e3e761ac26041b41f6737a6bed7dcf35ccd40d6b
-SHA256: 81ffd1131d10060f7c69c7eb9643071cb17ed2ca569b3f92ea1a6c5565bd6c24
+Installed-Size: 590
+Depends: zlib1g,zlib1g-dev
+Filename: ./libax25_1.2.2-1_arm64.deb
+Size: 177168
+MD5sum: ff09ef66d6de7677d76c1c53ddf198a8
+SHA1: 90817d55ad2590504f848f92b059af0fee54e974
+SHA256: 425c199276d56c96deb25855d21dcabf1398e1ab4d1c1992a78718809110c9f9
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1071,6 +1053,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: libhamlib-dev
+Version: 4.5.5-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 355
+Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
+Filename: ./libhamlib-dev_4.5.5-1_armhf.deb
+Size: 92234
+MD5sum: ea09a110c95f8484420cb306f2d6cc27
+SHA1: e3e761ac26041b41f6737a6bed7dcf35ccd40d6b
+SHA256: 81ffd1131d10060f7c69c7eb9643071cb17ed2ca569b3f92ea1a6c5565bd6c24
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -1148,24 +1148,6 @@ Vendor: none
 
 Package: linpac
 Version: 0.29-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 3573
-Depends: ax25-tools,perl
-Filename: ./linpac_0.29-1_armhf.deb
-Size: 1403396
-MD5sum: 75b5cc5bbfcbe2782532c0f9ea74fd8b
-SHA1: 3cc17431bcdc1a9ed837c07088eb61f56609e9d0
-SHA256: f5589c1cf451a0b1b5fb9d715a4723d40a0516bcaec1b1aee9795d455ccd252f
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: linpac
-Version: 0.29-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4340
@@ -1179,6 +1161,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: linpac
+Version: 0.29-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 3573
+Depends: ax25-tools,perl
+Filename: ./linpac_0.29-1_armhf.deb
+Size: 1403396
+MD5sum: 75b5cc5bbfcbe2782532c0f9ea74fd8b
+SHA1: 3cc17431bcdc1a9ed837c07088eb61f56609e9d0
+SHA256: f5589c1cf451a0b1b5fb9d715a4723d40a0516bcaec1b1aee9795d455ccd252f
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -1292,24 +1292,6 @@ Vendor: none
 
 Package: uronode
 Version: 2.15-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 233
-Depends: libax25
-Filename: ./uronode_2.15-1_arm64.deb
-Size: 79354
-MD5sum: a3c3f096f1b83f0b267c9ef81b5a3842
-SHA1: dd7afe370f40f8e3ad88afe067bead2030ec42bb
-SHA256: 1725d365a32ae521c0ae2ce7552e9253597be8263c0d62858d13782867a1269c
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: uronode
-Version: 2.15-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 205
@@ -1323,6 +1305,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: uronode
+Version: 2.15-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 233
+Depends: libax25
+Filename: ./uronode_2.15-1_arm64.deb
+Size: 79354
+MD5sum: a3c3f096f1b83f0b267c9ef81b5a3842
+SHA1: dd7afe370f40f8e3ad88afe067bead2030ec42bb
+SHA256: 1725d365a32ae521c0ae2ce7552e9253597be8263c0d62858d13782867a1269c
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1364,24 +1364,6 @@ Vendor: none
 
 Package: wsjtx
 Version: 2.6.1-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 46923
-Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
-Filename: ./wsjtx_2.6.1-1_armhf.deb
-Size: 12061202
-MD5sum: 63705f777954f064f6b66140e4cb112c
-SHA1: 9f6c5dad3d1c97b036730f2459507cecaa70b8df
-SHA256: e655336c02fdfd6d5526a8ddd7dfaceb55206d5ae7714a0a09842a0f8aa1d41e
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: wsjtx
-Version: 2.6.1-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 53366
@@ -1395,6 +1377,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: wsjtx
+Version: 2.6.1-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 46923
+Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
+Filename: ./wsjtx_2.6.1-1_armhf.deb
+Size: 12061202
+MD5sum: 63705f777954f064f6b66140e4cb112c
+SHA1: 9f6c5dad3d1c97b036730f2459507cecaa70b8df
+SHA256: e655336c02fdfd6d5526a8ddd7dfaceb55206d5ae7714a0a09842a0f8aa1d41e
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -1423,30 +1423,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 8661
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.2.1-1_arm64.deb
-Size: 3141584
-MD5sum: 164186bcf8edf74fe45546eb4e284a1b
-SHA1: cbe7a67aab29db6f646bc291f9964821ba91189f
-SHA256: 472619412d99104327b704bbd5ec23c30e9ae9efa90f38a2483ec5fee0edd8d7
+Size: 3141860
+MD5sum: 22775420f8b055ddd7c93a4cce0995cb
+SHA1: 70e79b4a19143abea8b7382b40e5f51b07c64bd0
+SHA256: e7333d560b156ea2fe9e4aafe9c7ba606c53f3da0eae9e08bc5226b8746416ee
 Section: default
 Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: yad
-Version: 13.0-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 1528
-Depends: intltool,libgtk-3-dev,autotools-dev
-Filename: ./yad_13.0-1_arm64.deb
-Size: 595856
-MD5sum: 66d3183e9d43126c474f52a6b1603841
-SHA1: 1ea667c5b2a5d6ec700f490dde06f0523739a627
-SHA256: 205702af862efe520e68c97990c089012ae75c53724e60d5525bcebe05ebc30c
-Section: default
-Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
@@ -1467,6 +1449,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: yad
+Version: 13.0-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 1528
+Depends: intltool,libgtk-3-dev,autotools-dev
+Filename: ./yad_13.0-1_arm64.deb
+Size: 595856
+MD5sum: 66d3183e9d43126c474f52a6b1603841
+SHA1: 1ea667c5b2a5d6ec700f490dde06f0523739a627
+SHA256: 205702af862efe520e68c97990c089012ae75c53724e60d5525bcebe05ebc30c
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
