@@ -1057,34 +1057,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib-dev
-Version: 4.6-1
+Version: 4.6.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 383
 Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.6-1_armhf.deb
-Size: 98028
-MD5sum: 1e9b7ed667e5a747dcf1e45fb5e19e4d
-SHA1: 0e41d4915e986d16e4befbbdfb0d7edfc3151f89
-SHA256: 13b418fcb0ada56963d80d7fc7940b6cb582a9f3a98dd65ea89cf9e354043b78
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: libhamlib-utils
-Version: 4.6-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 4285
-Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
-Filename: ./libhamlib-utils_4.6-1_armhf.deb
-Size: 1773976
-MD5sum: 276b598828c876c3c15852d3fdf07137
-SHA1: 4723e2c9e8056a5bec561ff54cf8a246c92d5bcb
-SHA256: 5efd586b71b9c6073cd54488863ca7e16f93e411b2d1bdc282044139e761c617
+Filename: ./libhamlib-dev_4.6.1-1_armhf.deb
+Size: 98154
+MD5sum: dece40450bf51a732a717ac604d1b91d
+SHA1: fe2c615432a0d61bda450391e3961fc21c277da8
+SHA256: 35b683a16c47865dd79ee5a12e31609d2a364b4ef9f3977d2e00c6ec9906359c
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -1110,6 +1092,24 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
+Package: libhamlib-utils
+Version: 4.6.1-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 4284
+Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
+Filename: ./libhamlib-utils_4.6.1-1_armhf.deb
+Size: 1774378
+MD5sum: ad02de7de9b119767b91218fa03fd986
+SHA1: e5b749a5d21b2da060fa29fec36f4a5c7899a782
+SHA256: 7ca39d5cacb2974e7c1b9bceba63d6506f2b8d02eef14f18c2f403f7e6ae0cf1
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
 Package: libhamlib4
 Version: 4.6-1
 Architecture: arm64
@@ -1129,16 +1129,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib4
-Version: 4.6-1
+Version: 4.6.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 28168
+Installed-Size: 28193
 Depends: libusb-1.0-0-dev,libc6
-Filename: ./libhamlib4_4.6-1_armhf.deb
-Size: 7734766
-MD5sum: 2eb36ca49b42533bd9e84f6c6ea7fec1
-SHA1: 272a9d7de088f98f7baab37d4af00efce9ae5d7b
-SHA256: b56c3f0f36b23d0a229a775d66eb6ddf5d6ef1478b0c67945dbbcdd843aa8951
+Filename: ./libhamlib4_4.6.1-1_armhf.deb
+Size: 7741374
+MD5sum: 988897131c4a8c9765f0c2902dac83b3
+SHA1: d78fc815bdf1a2263ab257057309c2784e661c0d
+SHA256: 59c90aaff2d108c7eca66c55d45bb084f8678705e33df14facf90ff606f5b30d
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
