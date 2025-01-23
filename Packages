@@ -1039,52 +1039,52 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib-dev
-Version: 4.6-1
-Architecture: arm64
+Version: 4.6.1-2
+Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 383
 Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.6-1_arm64.deb
-Size: 97816
-MD5sum: bd6d7910e70d1a9c733e74ea86fea225
-SHA1: da2754f132098915cd970068f323bbbbdb0c72cf
-SHA256: 737aca4263275a423ba0ece94c59e9a021cb28afae11a61ae2ab4f0601f08eec
+Filename: ./libhamlib-dev_4.6.1-2_armhf.deb
+Size: 98150
+MD5sum: 03ec08a613921d46c44e711959b4b3f9
+SHA1: 0daa448eeb7cec104381bb68e8dd8da95ff29070
+SHA256: 0f54e808e1af7ef7de5a189f55de90e7eff6bf21fb2a5eb8bd6bda52732f4401
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
 Package: libhamlib-dev
-Version: 4.6.1-1
-Architecture: armhf
+Version: 4.6.1-2
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 383
 Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.6.1-1_armhf.deb
-Size: 98154
-MD5sum: dece40450bf51a732a717ac604d1b91d
-SHA1: fe2c615432a0d61bda450391e3961fc21c277da8
-SHA256: 35b683a16c47865dd79ee5a12e31609d2a364b4ef9f3977d2e00c6ec9906359c
+Filename: ./libhamlib-dev_4.6.1-2_arm64.deb
+Size: 97952
+MD5sum: cbe65031ddefaa8e29527ef221fd156c
+SHA1: 62e36e31aa916730a6d4cd8bc8695e6515c64fce
+SHA256: e3b750697f8bdd2b954b600267b12bd68c084fccf4fd705c6a62c525e89ad2f0
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
 Package: libhamlib-utils
-Version: 4.6-1
+Version: 4.6.1-2
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 5898
 Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
-Filename: ./libhamlib-utils_4.6-1_arm64.deb
-Size: 2059942
-MD5sum: e2590f1fc9fe746e1b28e00b764cb555
-SHA1: c55edd86400e00d71045d25e75e4fed436169f12
-SHA256: f5c068ae75f33b63ac4157de1ef7e0081a015e871b146b5dfc17e22d68b27999
+Filename: ./libhamlib-utils_4.6.1-2_arm64.deb
+Size: 2060736
+MD5sum: fc92d7d5a842683fc3e30504a2d125a4
+SHA1: 65c1ee63aab4b23d82d91b172de620e8f8409919
+SHA256: 97418af5a1f11158df8796429e79728e7ad59d345b5e0c9211a2f7d2311369ce
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -1093,16 +1093,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib-utils
-Version: 4.6.1-1
+Version: 4.6.1-2
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4284
 Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
-Filename: ./libhamlib-utils_4.6.1-1_armhf.deb
-Size: 1774378
-MD5sum: ad02de7de9b119767b91218fa03fd986
-SHA1: e5b749a5d21b2da060fa29fec36f4a5c7899a782
-SHA256: 7ca39d5cacb2974e7c1b9bceba63d6506f2b8d02eef14f18c2f403f7e6ae0cf1
+Filename: ./libhamlib-utils_4.6.1-2_armhf.deb
+Size: 1774412
+MD5sum: dddaf8ed09b5180758ea3ba3f66e8cc6
+SHA1: 4bb8044deab18e6eda044fc302426f0d6817980e
+SHA256: 02a51234ee4b3448015d7c7fbe485b7579b3cead8dd8ccc4f73610ca66a628bc
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -1111,38 +1111,38 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib4
-Version: 4.6-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 32874
-Depends: libusb-1.0-0-dev,libc6
-Filename: ./libhamlib4_4.6-1_arm64.deb
-Size: 7882324
-MD5sum: f38cdea73ef7a9471242983145ce9b63
-SHA1: 842a03aa686b07152f095f389058f02d9620f19c
-SHA256: 2692e1a741487facc00087bb2758d3d2f5f6c0c92e56c33bbc33c5acc5404361
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: libhamlib4
-Version: 4.6.1-1
+Version: 4.6.1-2
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 28193
 Depends: libusb-1.0-0-dev,libc6
-Filename: ./libhamlib4_4.6.1-1_armhf.deb
-Size: 7741374
-MD5sum: 988897131c4a8c9765f0c2902dac83b3
-SHA1: d78fc815bdf1a2263ab257057309c2784e661c0d
-SHA256: 59c90aaff2d108c7eca66c55d45bb084f8678705e33df14facf90ff606f5b30d
+Filename: ./libhamlib4_4.6.1-2_armhf.deb
+Size: 7741616
+MD5sum: 74989704e780f7d7c08692eefee9f802
+SHA1: ee4a65cdd5ad71083d37a12fbb469e13bb44f4cd
+SHA256: 2d33b015e8021bfcdf8c874614a75f00b28e2206b8063a9b4dd2754019b0afe4
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: libhamlib4
+Version: 4.6.1-2
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 32901
+Depends: libusb-1.0-0-dev,libc6
+Filename: ./libhamlib4_4.6.1-2_arm64.deb
+Size: 7882956
+MD5sum: d98cfc59f0b9e53225f802b94e325649
+SHA1: 29189c6ad074eea46df884765b23c78cb7aa7589
+SHA256: 769f46af142b0a0ac5cf14936badce13702ec1fd548271a34c2286539f048d34
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1255,18 +1255,18 @@ License: See source code license
 Vendor: none
 
 Package: rmsgw
-Version: 2.5.1-1
+Version: 2.5.1-7
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 775
+Installed-Size: 776
 Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-1_arm64.deb
-Size: 294418
-MD5sum: 6a17b02a5d745e35d85942f04b7ccc31
-SHA1: e0eb5ee3b153742802bba0a25a3f1db3c54e974c
-SHA256: 1f2d720def679c29a0459c7de495bd894ba4faa2265ace26fd20bae35bd3dd03
+Filename: ./rmsgw_2.5.1-7_arm64.deb
+Size: 294740
+MD5sum: 9ef5068a4d8b0623e6e50ed480f0efbf
+SHA1: 88b31cc5c2fbdaf3ec1f42d2fe6df5eff9d797df
+SHA256: f261e8bc99ec25483381dbb6cdbf89c734207af3bbbc88fb36d96aa7513d99c9
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
