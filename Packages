@@ -1399,16 +1399,16 @@ License: See source code license
 Vendor: none
 
 Package: xastir
-Version: 2.2.1-1
+Version: 2.2.3-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 8675
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
-Filename: ./xastir_2.2.1-1_arm64.deb
-Size: 3155340
-MD5sum: 7f520ecc47806d8a1cf0b731a0554d60
-SHA1: c5671c1095f11567fc1cc4299de9f2511ad3e7d0
-SHA256: 7e5256774d7131d336c660f98caaa8af191cf198740ddfcee466209876fad853
+Filename: ./xastir_2.2.3-1_arm64.deb
+Size: 3155300
+MD5sum: 704d76b04acc03d00cc230b8ec389db9
+SHA1: f75262897c3ab8ba573c67b710c4653edd08507c
+SHA256: de2e60b5e4940e809a6846aab810db06583cead2886a35e39f09705a40830c2a
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
