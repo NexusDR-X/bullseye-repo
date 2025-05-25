@@ -1400,24 +1400,6 @@ Vendor: none
 
 Package: xastir
 Version: 2.2.1-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 7847
-Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
-Filename: ./xastir_2.2.1-1_armhf.deb
-Size: 3003334
-MD5sum: 8a192651faa717f952dafa6ba96456dc
-SHA1: 44598e79561597e70550ac00a678a9ef51a9cd31
-SHA256: 2940448e44e2d5c8b6e10494153135a6b0c4738e06778bd70274404a7421cd5e
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: xastir
-Version: 2.2.1-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 8675
@@ -1431,6 +1413,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: xastir
+Version: 2.2.3-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 7847
+Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
+Filename: ./xastir_2.2.3-1_armhf.deb
+Size: 3003340
+MD5sum: 6160bce8cf38b8341deb0ad550a92407
+SHA1: c9787953a78ef43a206ae1029ccfa75ef0ceedfb
+SHA256: 54ce3b345e52c0e99156306d3f4284c87f1647df4429637c1ffceb6deddf75aa
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
