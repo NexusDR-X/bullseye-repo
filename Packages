@@ -1,23 +1,5 @@
 Package: arim
 Version: 2.12-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 6288
-Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
-Filename: ./arim_2.12-1_arm64.deb
-Size: 5653598
-MD5sum: 84c629411f3de0767aa49ab64300cce5
-SHA1: df35785382f1724335665527b8a76e73221ad1bc
-SHA256: b24c42d8e27d50ceb80938c2db063da106ee4495a3ad9bf8b9c5ff6db89c3363
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: arim
-Version: 2.12-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 6234
@@ -34,21 +16,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: ax25-apps
-Version: 2.1.0-1
-Architecture: armhf
+Package: arim
+Version: 2.12-1
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 668
-Depends: libncursesw5,libncursesw5-dev
-Filename: ./ax25-apps_2.1.0-1_armhf.deb
-Size: 299038
-MD5sum: 84b41a49b33cd68c4048cdf5e6d7d41a
-SHA1: 02655f4f37923930ece9816a05771943ee6dab42
-SHA256: 521f7db18a56037db64838ded025887a2a806bcdb7f07f55788ee76399a5c4df
+Installed-Size: 6288
+Depends: libncurses5-dev,libncursesw5-dev,libfltk1.3-dev
+Filename: ./arim_2.12-1_arm64.deb
+Size: 5653598
+MD5sum: 84c629411f3de0767aa49ab64300cce5
+SHA1: df35785382f1724335665527b8a76e73221ad1bc
+SHA256: b24c42d8e27d50ceb80938c2db063da106ee4495a3ad9bf8b9c5ff6db89c3363
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -67,6 +49,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: ax25-apps
+Version: 2.1.0-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 668
+Depends: libncursesw5,libncursesw5-dev
+Filename: ./ax25-apps_2.1.0-1_armhf.deb
+Size: 299038
+MD5sum: 84b41a49b33cd68c4048cdf5e6d7d41a
+SHA1: 02655f4f37923930ece9816a05771943ee6dab42
+SHA256: 521f7db18a56037db64838ded025887a2a806bcdb7f07f55788ee76399a5c4df
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -108,24 +108,6 @@ Vendor: none
 
 Package: ax25mail-utils
 Version: 0.16-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 559
-Depends: ax25-tools,perl
-Filename: ./ax25mail-utils_0.16-1_arm64.deb
-Size: 215702
-MD5sum: fdee8f4a7cdb8bfdac0a99afa791e76b
-SHA1: 338d5c11046b060d4c530de7a8764095c9b1ccd0
-SHA256: 6d92c3e572914c966215e27048b203a51c7107bf1b470fe4dbe93ae58612dc13
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: ax25mail-utils
-Version: 0.16-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 494
@@ -142,255 +124,23 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: direwolf
-Version: 1.7.0-20240913115301-390d4a8-1
+Package: ax25mail-utils
+Version: 0.16-1
 Architecture: arm64
-Maintainer: https://github.com/wb2osz/direwolf
-Installed-Size: 22032
-Depends: libasound2,libgps-dev
-Filename: ./direwolf-1.7.0-20240913115301-390d4a8-1_arm64.deb
-Size: 20348320
-MD5sum: 044c276e4ba9919754bef0b797d75aa3
-SHA1: 91312296be9947087d2f2dfa0ec73f6ec4ace696
-SHA256: cdd9d5bf752116b27e44f9fd9374ff6facf0a0b5da0939042626f9890e29e797
-Section: devel
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 559
+Depends: ax25-tools,perl
+Filename: ./ax25mail-utils_0.16-1_arm64.deb
+Size: 215702
+MD5sum: fdee8f4a7cdb8bfdac0a99afa791e76b
+SHA1: 338d5c11046b060d4c530de7a8764095c9b1ccd0
+SHA256: 6d92c3e572914c966215e27048b203a51c7107bf1b470fe4dbe93ae58612dc13
+Section: default
 Priority: optional
-Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tracker, and APRStt gateway
- .
- # Dire Wolf #
- .
- ### Decoded Information from Radio Emissions for Windows Or Linux Fans ###
- .
- In the early days of Amateur Packet Radio, it was necessary to use an expensive &quot;Terminal Node Controller&quot; (TNC) with specialized hardware.  Those days are gone.  You can now get better results at lower cost by connecting your radio to the &quot;soundcard&quot; interface of a computer and using software to decode the signals.
- .
- Why waste $200 and settle for mediocre receive performance from a 1980&apos;s technology  TNC using an old modem chip?   Dire Wolf decodes over 1000 error-free frames from Track 2 of the [WA8LMF TNC Test CD](https://github.com/wb2osz/direwolf/tree/dev/doc/WA8LMF-TNC-Test-CD-Results.pdf), leaving all the hardware TNCs, and first generation &quot;soundcard&quot; modems, behind in the dust.
- .
- ![](tnc-test-cd-results.png)
- .
- Dire Wolf includes [FX.25](https://en.wikipedia.org/wiki/FX.25_Forward_Error_Correction) which adds Forward Error Correction (FEC) in a way that is completely compatible with existing systems.  If both ends are capable of FX.25, your information will continue to get through under conditions where regular AX.25 is completely useless. This was originally developed for satellites and is now seeing widespread use on HF.
- .
- ![](fx25.png)
- .
- Version 1.7 adds [IL2P](https://en.wikipedia.org/wiki/Improved_Layer_2_Protocol), a different method of FEC with less overhead but it is not compatible with AX.25.
- .
- .
- .
- ### Dire Wolf is a modern software replacement for the old 1980&apos;s style TNC built with special hardware. ###
- .
- Without any additional software, it can perform as:
- .
-  - APRS GPS Tracker
-  - Digipeater
-  - Internet Gateway (IGate)
- - [APRStt](http://www.aprs.org/aprstt.html) gateway
- .
- .
- It can also be used as a virtual TNC for other applications such as [APRSIS32](http://aprsisce.wikidot.com/), [Xastir](http://xastir.org/index.php/Main_Page), [APRS-TW](http://aprstw.blandranch.net/), [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html), [PinPoint APRS](http://www.pinpointaprs.com/), [UI-View32](http://www.ui-view.net/),[UISS](http://users.belgacom.net/hamradio/uiss.htm), [Linux AX25](http://www.linux-ax25.org/wiki/Main_Page), [SARTrack](http://www.sartrack.co.nz/index.html), [Winlink Express (formerly known as RMS Express, formerly known as Winlink 2000 or WL2K)](http://www.winlink.org/RMSExpress), [BPQ32](http://www.cantab.net/users/john.wiseman/Documents/BPQ32.html), [Outpost PM](http://www.outpostpm.org/), [Ham Radio of Things](https://github.com/wb2osz/hrot), [Packet Compressed Sensing Imaging (PCSI)](https://maqifrnswa.github.io/PCSI/), and many others.
- .
- .
- ## Features &amp; Benefits ##
- .
- ![](direwolf-block-diagram.png)
- .
- ### Dire Wolf includes: ###
- .
- .
- .
- - **Beaconing, Tracker, Telemetry Toolkit.**
- .
-      Send periodic beacons to provide information to others.  For tracking the location is provided by a GPS receiver.
-      Build your own telemetry applications with the toolkit.
- .
- .
- - **APRStt Gateway.**
- .
-      Very few hams have portable equipment for APRS but nearly everyone has a handheld radio that can send DTMF tones.  APRStt allows a user, equipped with only DTMF (commonly known as Touch Tone) generation capability, to enter information into the global APRS data network.  Responses can be sent by Morse Code or synthesized speech.
- .
- - **Digipeaters for APRS and traditional Packet Radio.**
- .
-     Extend the range of other stations by re-transmitting their signals. Unmatched flexibility for cross band repeating and filtering to limit what is retransmitted.
- .
- - **Internet Gateway (IGate).**
- .
-     IGate stations allow communication between disjoint radio networks by allowing some content to flow between them over the Internet.
- .
- - **Ham Radio of Things (HRoT).**
- .
-     There have been occasional mentions of merging Ham Radio with the Internet of Things but only ad hoc incompatible narrowly focused applications. Here is a proposal for a standardized more flexible method so different systems can communicate with each other.
- .
-     [Ham Radio of Things - IoT over Ham Radio](https://github.com/wb2osz/hrot)
- .
- - **AX.25 v2.2 Link Layer.**
- .
-     Traditional connected mode packet radio where the TNC automatically retries transmissions and delivers data in the right order.
- .
- - **KISS Interface (TCP/IP, serial port, Bluetooth) &amp; AGW network Interface (TCP/IP).**
- .
-     Dire Wolf can be used as a virtual TNC for applications such as [APRSIS32](http://aprsisce.wikidot.com/), [Xastir](http://xastir.org/index.php/Main_Page), [APRS-TW](http://aprstw.blandranch.net/), [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html), [PinPoint APRS](http://www.pinpointaprs.com/), [UI-View32](http://www.ui-view.net/),[UISS](http://users.belgacom.net/hamradio/uiss.htm), [Linux AX25](http://www.linux-ax25.org/wiki/Main_Page), [SARTrack](http://www.sartrack.co.nz/index.html), [Winlink Express (formerly known as RMS Express, formerly known as Winlink 2000 or WL2K)](http://www.winlink.org/RMSExpress), [BPQ32](http://www.cantab.net/users/john.wiseman/Documents/BPQ32.html), [Outpost PM](http://www.outpostpm.org/), [Ham Radio of Things](https://github.com/wb2osz/hrot), [Packet Compressed Sensing Imaging (PCSI)](https://maqifrnswa.github.io/PCSI/), and many others.
- .
- ### Radio Interfaces:   ###
- .
- - **Uses computer&apos;s &quot;soundcard&quot; and digital signal processing.**
- .
-     Lower cost and better performance than specialized hardware.
- .
-     Compatible interfaces include [DRAWS](http://nwdigitalradio.com/draws/), [UDRC](https://nw-digital-radio.groups.io/g/udrc/wiki/UDRC%E2%84%A2-and-Direwolf-Packet-Modem), [SignaLink USB](http://www.tigertronics.com/slusbmain.htm), [DMK URI](http://www.dmkeng.com/URI_Order_Page.htm), [RB-USB RIM](http://www.repeater-builder.com/products/usb-rim-lite.html), [RA-35](http://www.masterscommunications.com/products/radio-adapter/ra35.html), [DINAH](https://hamprojects.info/dinah/), [SHARI](https://hamprojects.info/shari/), and many others.
- .
- .
- .
- - **Modems:**
- .
-     300 bps AFSK for HF
- .
-     1200 bps AFSK most common for VHF/UHF
- .
-     2400 &amp; 4800 bps PSK
- .
-     9600 bps GMSK/G3RUH
- .
-     AIS reception
- .
-     EAS SAME reception
- .
- .
- .
- - **DTMF (&quot;Touch Tone&quot;) Decoding and Encoding.**
- .
- - **Speech Synthesizer interface &amp; Morse code generator.**
- .
-     Transmit human understandable messages.
- .
- - **Compatible with Software Defined Radios such as gqrx, rtl_fm, and SDR#.**
- .
- - **Concurrent operation with up to 3 soundcards and 6 radios.**
- .
- ### Portable &amp; Open Source:   ###
- .
- - **Runs on Windows, Linux (PC/laptop, Raspberry Pi, etc.), Mac OSX.**
- .
- .
- .
- ## Documentation ##
- .
- .
- [Stable Version](https://github.com/wb2osz/direwolf/tree/master/doc)
- .
- [Latest Development Version (&quot;dev&quot; branch)](https://github.com/wb2osz/direwolf/tree/dev/doc)
- .
- [Additional Topics](https://github.com/wb2osz/direwolf-doc)
- .
- [Power Point presentations](https://github.com/wb2osz/direwolf-presentation)  -- Why not give a talk at a local club meeting?
- .
- Youtube has many interesting and helpful videos.  Searching for [direwolf tnc](https://www.youtube.com/results?search_query=direwolf+tnc) or [direwolf aprs](https://www.youtube.com/results?search_query=direwolf+aprs)  will produce the most relevant results.
- .
- ## Installation ##
- .
- ### Windows ###
- .
- Go to the [**releases** page](https://github.com/wb2osz/direwolf/releases).   Download a zip file with &quot;win&quot; in its name, unzip it, and run direwolf.exe from a command window.
- .
- You can also build it yourself from source.  For more details see the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).
- .
- .
- .
- .
- ### Linux - Using git clone (recommended) ###
- .
- ***Note that this has changed for version 1.6.  There are now a couple extra steps.***
- .
- .
- First you will need to install some software development packages using different commands depending on your flavor of Linux.
- In most cases, the first few  will already be there and the package installer will tell you that installation is not necessary.
- .
- On Debian / Ubuntu / Raspbian / Raspberry Pi OS:
- .
-     sudo apt-get install git
-     sudo apt-get install gcc
-     sudo apt-get install g++
-     sudo apt-get install make
-     sudo apt-get install cmake
-     sudo apt-get install libasound2-dev
-     sudo apt-get install libudev-dev
-     sudo apt-get install libavahi-client-dev
- .
- Or on Red Hat / Fedora / CentOS:
- .
-     sudo yum install git
-     sudo yum install gcc
-     sudo yum install gcc-c++
-     sudo yum install make
-     sudo yum install alsa-lib-devel
-     sudo yum install libudev-devel
-     sudo yum install avahi-devel
- .
- CentOS 6 &amp; 7 currently have cmake 2.8 but we need 3.1 or later.
- First you need to enable the EPEL repository.  Add a symlink if you don&apos;t already have the older version and want to type cmake rather than cmake3.
- .
-     sudo yum install epel-release
- 	sudo rpm -e cmake
- 	sudo yum install cmake3
- 	sudo ln -s /usr/bin/cmake3 /usr/bin/cmake
- .
- Then on any flavor of Linux:
- .
- 	cd ~
- 	git clone https://www.github.com/wb2osz/direwolf
- 	cd direwolf
-     git checkout dev
- 	mkdir build &amp;&amp; cd build
- 	cmake ..
- 	make -j4
- 	sudo make install
- 	make install-conf
- .
- This gives you the latest development version.  Leave out the &quot;git checkout dev&quot; to get the most recent stable release.
- .
- For more details see the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).  Special considerations for the Raspberry Pi are found in **Raspberry-Pi-APRS.pdf**
- .
- .
- ### Linux - Using apt-get (Debian flavor operating systems) ###
- .
- Results will vary depending on your hardware platform and operating system version because it depends on various volunteers who perform the packaging. Expect the version to lag significantly behind development.
- .
- 	sudo apt-get update
- 	apt-cache showpkg direwolf
- 	sudo apt-get install direwolf
- .
- .
- ### Linux - Using yum (Red Hat flavor operating systems) ###
- .
- Results will vary depending on your hardware platform and operating system version because it depends on various volunteers who perform the packaging.  Expect the version to lag significantly behind development.
- .
- 	sudo yum check-update
- 	sudo yum list direwolf
- 	sudo yum install direwolf
- .
- .
- ### Macintosh OS X ###
- .
- Read the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).   It is more complicated than Linux.
- .
- If you have problems,  post them to the [Dire Wolf packet TNC](https://groups.io/g/direwolf) discussion group.
- .
- You can also install a pre-built version from Mac Ports.  Keeping this up to date depends on volunteers who perform the packaging. This version could lag behind development.
- .
- 	sudo port install direwolf
- .
- .
- ## Join the conversation  ##
- .
- Here are some good places to ask questions and share your experience:
- .
- - [Dire Wolf Software TNC](https://groups.io/g/direwolf)
- .
- - [Raspberry Pi 4 Ham Radio](https://groups.io/g/RaspberryPi-4-HamRadio)
- .
- - [linuxham](https://groups.io/g/linuxham)
- .
- - [TAPR aprssig](http://www.tapr.org/pipermail/aprssig/)
- .
- .
- The github &quot;issues&quot; section is for reporting software defects and enhancement requests.  It is NOT a place to ask questions or have general discussions.  Please use one of the locations above.
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
 
 Package: direwolf
 Version: 1.7.0-20240913115301-390d4a8-1
@@ -642,23 +392,255 @@ Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tr
  .
  The github &quot;issues&quot; section is for reporting software defects and enhancement requests.  It is NOT a place to ask questions or have general discussions.  Please use one of the locations above.
 
-Package: flamp
-Version: 2.2.14-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 9431
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flamp_2.2.14-1_armhf.deb
-Size: 3450062
-MD5sum: b8db7724d1ca77a4a9d42f2870c6aceb
-SHA1: 28c8afea182e00ffaa143540007f5ca527c7dcdc
-SHA256: ac31024f138c206554a32752203d369c671c6a2e96832ecee238f6a608a32b61
-Section: default
+Package: direwolf
+Version: 1.7.0-20240913115301-390d4a8-1
+Architecture: arm64
+Maintainer: https://github.com/wb2osz/direwolf
+Installed-Size: 22032
+Depends: libasound2,libgps-dev
+Filename: ./direwolf-1.7.0-20240913115301-390d4a8-1_arm64.deb
+Size: 20348320
+MD5sum: 044c276e4ba9919754bef0b797d75aa3
+SHA1: 91312296be9947087d2f2dfa0ec73f6ec4ace696
+SHA256: cdd9d5bf752116b27e44f9fd9374ff6facf0a0b5da0939042626f9890e29e797
+Section: devel
 Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
+Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tracker, and APRStt gateway
+ .
+ # Dire Wolf #
+ .
+ ### Decoded Information from Radio Emissions for Windows Or Linux Fans ###
+ .
+ In the early days of Amateur Packet Radio, it was necessary to use an expensive &quot;Terminal Node Controller&quot; (TNC) with specialized hardware.  Those days are gone.  You can now get better results at lower cost by connecting your radio to the &quot;soundcard&quot; interface of a computer and using software to decode the signals.
+ .
+ Why waste $200 and settle for mediocre receive performance from a 1980&apos;s technology  TNC using an old modem chip?   Dire Wolf decodes over 1000 error-free frames from Track 2 of the [WA8LMF TNC Test CD](https://github.com/wb2osz/direwolf/tree/dev/doc/WA8LMF-TNC-Test-CD-Results.pdf), leaving all the hardware TNCs, and first generation &quot;soundcard&quot; modems, behind in the dust.
+ .
+ ![](tnc-test-cd-results.png)
+ .
+ Dire Wolf includes [FX.25](https://en.wikipedia.org/wiki/FX.25_Forward_Error_Correction) which adds Forward Error Correction (FEC) in a way that is completely compatible with existing systems.  If both ends are capable of FX.25, your information will continue to get through under conditions where regular AX.25 is completely useless. This was originally developed for satellites and is now seeing widespread use on HF.
+ .
+ ![](fx25.png)
+ .
+ Version 1.7 adds [IL2P](https://en.wikipedia.org/wiki/Improved_Layer_2_Protocol), a different method of FEC with less overhead but it is not compatible with AX.25.
+ .
+ .
+ .
+ ### Dire Wolf is a modern software replacement for the old 1980&apos;s style TNC built with special hardware. ###
+ .
+ Without any additional software, it can perform as:
+ .
+  - APRS GPS Tracker
+  - Digipeater
+  - Internet Gateway (IGate)
+ - [APRStt](http://www.aprs.org/aprstt.html) gateway
+ .
+ .
+ It can also be used as a virtual TNC for other applications such as [APRSIS32](http://aprsisce.wikidot.com/), [Xastir](http://xastir.org/index.php/Main_Page), [APRS-TW](http://aprstw.blandranch.net/), [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html), [PinPoint APRS](http://www.pinpointaprs.com/), [UI-View32](http://www.ui-view.net/),[UISS](http://users.belgacom.net/hamradio/uiss.htm), [Linux AX25](http://www.linux-ax25.org/wiki/Main_Page), [SARTrack](http://www.sartrack.co.nz/index.html), [Winlink Express (formerly known as RMS Express, formerly known as Winlink 2000 or WL2K)](http://www.winlink.org/RMSExpress), [BPQ32](http://www.cantab.net/users/john.wiseman/Documents/BPQ32.html), [Outpost PM](http://www.outpostpm.org/), [Ham Radio of Things](https://github.com/wb2osz/hrot), [Packet Compressed Sensing Imaging (PCSI)](https://maqifrnswa.github.io/PCSI/), and many others.
+ .
+ .
+ ## Features &amp; Benefits ##
+ .
+ ![](direwolf-block-diagram.png)
+ .
+ ### Dire Wolf includes: ###
+ .
+ .
+ .
+ - **Beaconing, Tracker, Telemetry Toolkit.**
+ .
+      Send periodic beacons to provide information to others.  For tracking the location is provided by a GPS receiver.
+      Build your own telemetry applications with the toolkit.
+ .
+ .
+ - **APRStt Gateway.**
+ .
+      Very few hams have portable equipment for APRS but nearly everyone has a handheld radio that can send DTMF tones.  APRStt allows a user, equipped with only DTMF (commonly known as Touch Tone) generation capability, to enter information into the global APRS data network.  Responses can be sent by Morse Code or synthesized speech.
+ .
+ - **Digipeaters for APRS and traditional Packet Radio.**
+ .
+     Extend the range of other stations by re-transmitting their signals. Unmatched flexibility for cross band repeating and filtering to limit what is retransmitted.
+ .
+ - **Internet Gateway (IGate).**
+ .
+     IGate stations allow communication between disjoint radio networks by allowing some content to flow between them over the Internet.
+ .
+ - **Ham Radio of Things (HRoT).**
+ .
+     There have been occasional mentions of merging Ham Radio with the Internet of Things but only ad hoc incompatible narrowly focused applications. Here is a proposal for a standardized more flexible method so different systems can communicate with each other.
+ .
+     [Ham Radio of Things - IoT over Ham Radio](https://github.com/wb2osz/hrot)
+ .
+ - **AX.25 v2.2 Link Layer.**
+ .
+     Traditional connected mode packet radio where the TNC automatically retries transmissions and delivers data in the right order.
+ .
+ - **KISS Interface (TCP/IP, serial port, Bluetooth) &amp; AGW network Interface (TCP/IP).**
+ .
+     Dire Wolf can be used as a virtual TNC for applications such as [APRSIS32](http://aprsisce.wikidot.com/), [Xastir](http://xastir.org/index.php/Main_Page), [APRS-TW](http://aprstw.blandranch.net/), [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html), [PinPoint APRS](http://www.pinpointaprs.com/), [UI-View32](http://www.ui-view.net/),[UISS](http://users.belgacom.net/hamradio/uiss.htm), [Linux AX25](http://www.linux-ax25.org/wiki/Main_Page), [SARTrack](http://www.sartrack.co.nz/index.html), [Winlink Express (formerly known as RMS Express, formerly known as Winlink 2000 or WL2K)](http://www.winlink.org/RMSExpress), [BPQ32](http://www.cantab.net/users/john.wiseman/Documents/BPQ32.html), [Outpost PM](http://www.outpostpm.org/), [Ham Radio of Things](https://github.com/wb2osz/hrot), [Packet Compressed Sensing Imaging (PCSI)](https://maqifrnswa.github.io/PCSI/), and many others.
+ .
+ ### Radio Interfaces:   ###
+ .
+ - **Uses computer&apos;s &quot;soundcard&quot; and digital signal processing.**
+ .
+     Lower cost and better performance than specialized hardware.
+ .
+     Compatible interfaces include [DRAWS](http://nwdigitalradio.com/draws/), [UDRC](https://nw-digital-radio.groups.io/g/udrc/wiki/UDRC%E2%84%A2-and-Direwolf-Packet-Modem), [SignaLink USB](http://www.tigertronics.com/slusbmain.htm), [DMK URI](http://www.dmkeng.com/URI_Order_Page.htm), [RB-USB RIM](http://www.repeater-builder.com/products/usb-rim-lite.html), [RA-35](http://www.masterscommunications.com/products/radio-adapter/ra35.html), [DINAH](https://hamprojects.info/dinah/), [SHARI](https://hamprojects.info/shari/), and many others.
+ .
+ .
+ .
+ - **Modems:**
+ .
+     300 bps AFSK for HF
+ .
+     1200 bps AFSK most common for VHF/UHF
+ .
+     2400 &amp; 4800 bps PSK
+ .
+     9600 bps GMSK/G3RUH
+ .
+     AIS reception
+ .
+     EAS SAME reception
+ .
+ .
+ .
+ - **DTMF (&quot;Touch Tone&quot;) Decoding and Encoding.**
+ .
+ - **Speech Synthesizer interface &amp; Morse code generator.**
+ .
+     Transmit human understandable messages.
+ .
+ - **Compatible with Software Defined Radios such as gqrx, rtl_fm, and SDR#.**
+ .
+ - **Concurrent operation with up to 3 soundcards and 6 radios.**
+ .
+ ### Portable &amp; Open Source:   ###
+ .
+ - **Runs on Windows, Linux (PC/laptop, Raspberry Pi, etc.), Mac OSX.**
+ .
+ .
+ .
+ ## Documentation ##
+ .
+ .
+ [Stable Version](https://github.com/wb2osz/direwolf/tree/master/doc)
+ .
+ [Latest Development Version (&quot;dev&quot; branch)](https://github.com/wb2osz/direwolf/tree/dev/doc)
+ .
+ [Additional Topics](https://github.com/wb2osz/direwolf-doc)
+ .
+ [Power Point presentations](https://github.com/wb2osz/direwolf-presentation)  -- Why not give a talk at a local club meeting?
+ .
+ Youtube has many interesting and helpful videos.  Searching for [direwolf tnc](https://www.youtube.com/results?search_query=direwolf+tnc) or [direwolf aprs](https://www.youtube.com/results?search_query=direwolf+aprs)  will produce the most relevant results.
+ .
+ ## Installation ##
+ .
+ ### Windows ###
+ .
+ Go to the [**releases** page](https://github.com/wb2osz/direwolf/releases).   Download a zip file with &quot;win&quot; in its name, unzip it, and run direwolf.exe from a command window.
+ .
+ You can also build it yourself from source.  For more details see the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).
+ .
+ .
+ .
+ .
+ ### Linux - Using git clone (recommended) ###
+ .
+ ***Note that this has changed for version 1.6.  There are now a couple extra steps.***
+ .
+ .
+ First you will need to install some software development packages using different commands depending on your flavor of Linux.
+ In most cases, the first few  will already be there and the package installer will tell you that installation is not necessary.
+ .
+ On Debian / Ubuntu / Raspbian / Raspberry Pi OS:
+ .
+     sudo apt-get install git
+     sudo apt-get install gcc
+     sudo apt-get install g++
+     sudo apt-get install make
+     sudo apt-get install cmake
+     sudo apt-get install libasound2-dev
+     sudo apt-get install libudev-dev
+     sudo apt-get install libavahi-client-dev
+ .
+ Or on Red Hat / Fedora / CentOS:
+ .
+     sudo yum install git
+     sudo yum install gcc
+     sudo yum install gcc-c++
+     sudo yum install make
+     sudo yum install alsa-lib-devel
+     sudo yum install libudev-devel
+     sudo yum install avahi-devel
+ .
+ CentOS 6 &amp; 7 currently have cmake 2.8 but we need 3.1 or later.
+ First you need to enable the EPEL repository.  Add a symlink if you don&apos;t already have the older version and want to type cmake rather than cmake3.
+ .
+     sudo yum install epel-release
+ 	sudo rpm -e cmake
+ 	sudo yum install cmake3
+ 	sudo ln -s /usr/bin/cmake3 /usr/bin/cmake
+ .
+ Then on any flavor of Linux:
+ .
+ 	cd ~
+ 	git clone https://www.github.com/wb2osz/direwolf
+ 	cd direwolf
+     git checkout dev
+ 	mkdir build &amp;&amp; cd build
+ 	cmake ..
+ 	make -j4
+ 	sudo make install
+ 	make install-conf
+ .
+ This gives you the latest development version.  Leave out the &quot;git checkout dev&quot; to get the most recent stable release.
+ .
+ For more details see the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).  Special considerations for the Raspberry Pi are found in **Raspberry-Pi-APRS.pdf**
+ .
+ .
+ ### Linux - Using apt-get (Debian flavor operating systems) ###
+ .
+ Results will vary depending on your hardware platform and operating system version because it depends on various volunteers who perform the packaging. Expect the version to lag significantly behind development.
+ .
+ 	sudo apt-get update
+ 	apt-cache showpkg direwolf
+ 	sudo apt-get install direwolf
+ .
+ .
+ ### Linux - Using yum (Red Hat flavor operating systems) ###
+ .
+ Results will vary depending on your hardware platform and operating system version because it depends on various volunteers who perform the packaging.  Expect the version to lag significantly behind development.
+ .
+ 	sudo yum check-update
+ 	sudo yum list direwolf
+ 	sudo yum install direwolf
+ .
+ .
+ ### Macintosh OS X ###
+ .
+ Read the **User Guide** in the [**doc** directory](https://github.com/wb2osz/direwolf/tree/master/doc).   It is more complicated than Linux.
+ .
+ If you have problems,  post them to the [Dire Wolf packet TNC](https://groups.io/g/direwolf) discussion group.
+ .
+ You can also install a pre-built version from Mac Ports.  Keeping this up to date depends on volunteers who perform the packaging. This version could lag behind development.
+ .
+ 	sudo port install direwolf
+ .
+ .
+ ## Join the conversation  ##
+ .
+ Here are some good places to ask questions and share your experience:
+ .
+ - [Dire Wolf Software TNC](https://groups.io/g/direwolf)
+ .
+ - [Raspberry Pi 4 Ham Radio](https://groups.io/g/RaspberryPi-4-HamRadio)
+ .
+ - [linuxham](https://groups.io/g/linuxham)
+ .
+ - [TAPR aprssig](http://www.tapr.org/pipermail/aprssig/)
+ .
+ .
+ The github &quot;issues&quot; section is for reporting software defects and enhancement requests.  It is NOT a place to ask questions or have general discussions.  Please use one of the locations above.
 
 Package: flamp
 Version: 2.2.14-1
@@ -675,6 +657,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: flamp
+Version: 2.2.14-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 9431
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./flamp_2.2.14-1_armhf.deb
+Size: 3450062
+MD5sum: b8db7724d1ca77a4a9d42f2870c6aceb
+SHA1: 28c8afea182e00ffaa143540007f5ca527c7dcdc
+SHA256: ac31024f138c206554a32752203d369c671c6a2e96832ecee238f6a608a32b61
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -752,24 +752,6 @@ Vendor: none
 
 Package: fllog
 Version: 1.2.9-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 6228
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./fllog_1.2.9-1_arm64.deb
-Size: 1982192
-MD5sum: c7fe6747a1a1479924de0508eb7b74fe
-SHA1: 531816dfa70cf374b1d84b434dba75a363e8c904
-SHA256: 15e9206db849ec892344396be971c6e99eb0fd6e52ad4835af6ef433642e646f
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: fllog
-Version: 1.2.9-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 4960
@@ -783,6 +765,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: fllog
+Version: 1.2.9-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 6228
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./fllog_1.2.9-1_arm64.deb
+Size: 1982192
+MD5sum: c7fe6747a1a1479924de0508eb7b74fe
+SHA1: 531816dfa70cf374b1d84b434dba75a363e8c904
+SHA256: 15e9206db849ec892344396be971c6e99eb0fd6e52ad4835af6ef433642e646f
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -860,24 +860,6 @@ Vendor: none
 
 Package: flwrap
 Version: 1.3.6-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 757
-Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
-Filename: ./flwrap_1.3.6-1_arm64.deb
-Size: 258290
-MD5sum: df281963f5102db734ce0801643a1893
-SHA1: c10e610f7a44689b4e8aee7bf85a004e99175ed0
-SHA256: 24bb3210e649491e1e5010d351a21bc3726d948592bee1cb228aeb252a957c3e
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: flwrap
-Version: 1.3.6-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 610
@@ -894,21 +876,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: garim
-Version: 1.7-1
-Architecture: armhf
+Package: flwrap
+Version: 1.3.6-1
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 5656
-Depends: libfltk1.3-dev
-Filename: ./garim_1.7-1_armhf.deb
-Size: 4232690
-MD5sum: c59c3dbf552bc448c8e6f9abc6614267
-SHA1: 1fb6e279eae8f50d9d4faa77325cd38f4b5b7c90
-SHA256: d8e0431a06780217ae6704c4aba0a8890eafa24a70e15c58e6385d95d35486b4
+Installed-Size: 757
+Depends: asciidoc,asciidoc-base,asciidoc-common,autopoint,debhelper,dh-autoreconf,dh-strip-nondeterminism,docbook-xsl,dwz,gettext,intltool-debian,libarchive-zip-perl,libasound2-dev,libblkid-dev,libdebhelper-perl,libffi-dev,libfile-stripnondeterminism-perl,libflac-dev,libfltk-cairo1.3,libfltk-forms1.3,libfltk-gl1.3,libfltk-images1.3,libfltk1.3-dev,libflxmlrpc-dev,libflxmlrpc1,libglib2.0-dev,libglib2.0-dev-bin,libjack-dev,libjack0,libmbedcrypto3,libmbedtls-dev,libmbedtls12,libmbedx509-0,libmount-dev,libogg-dev,libopus-dev,libpcre16-3,libpcre2-32-0,libpcre2-dev,libpcre3-dev,libpcre32-3,libpcrecpp0v5,libportaudio2,libportaudiocpp0,libpthread-stubs0-dev,libpulse-dev,libpulse-mainloop-glib0,libsamplerate0-dev,libselinux1-dev,libsepol1-dev,libsndfile1-dev,libsub-override-perl,libudev-dev,libusb-1.0-0-dev,libvorbis-dev,libx11-dev,libxau-dev,libxcb1-dev,libxdmcp-dev,libxml2-utils,po-debconf,portaudio19-dev,uuid-dev,x11proto-dev,xorg-sgml-doctools,xsltproc,xtrans-dev,libhamlib4,libhamlib-utils,libhamlib-dev
+Filename: ./flwrap_1.3.6-1_arm64.deb
+Size: 258290
+MD5sum: df281963f5102db734ce0801643a1893
+SHA1: c10e610f7a44689b4e8aee7bf85a004e99175ed0
+SHA256: 24bb3210e649491e1e5010d351a21bc3726d948592bee1cb228aeb252a957c3e
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -927,6 +909,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: garim
+Version: 1.7-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 5656
+Depends: libfltk1.3-dev
+Filename: ./garim_1.7-1_armhf.deb
+Size: 4232690
+MD5sum: c59c3dbf552bc448c8e6f9abc6614267
+SHA1: 1fb6e279eae8f50d9d4faa77325cd38f4b5b7c90
+SHA256: d8e0431a06780217ae6704c4aba0a8890eafa24a70e15c58e6385d95d35486b4
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -968,24 +968,6 @@ Vendor: none
 
 Package: js8call
 Version: 2.2.0-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 18151
-Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
-Filename: ./js8call_2.2.0-1_armhf.deb
-Size: 10081058
-MD5sum: d6ba2eeff3f1cd4a9b088913aa833aaf
-SHA1: b3cc329d669bacc8762a1b97e83c55ca3b97434c
-SHA256: 06785384323be36d0e9be2a7c46d4436a85d8e61ea162caa09cbce10bb4cc3f2
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: js8call
-Version: 2.2.0-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 33752
@@ -1002,17 +984,17 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: libax25
-Version: 1.2.2-1
+Package: js8call
+Version: 2.2.0-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 423
-Depends: zlib1g,zlib1g-dev
-Filename: ./libax25_1.2.2-1_armhf.deb
-Size: 158880
-MD5sum: c25eece4ad04818473f2275171a3c82a
-SHA1: d39bfbfd11f2a3013f516f9b6f9d2c045d37b708
-SHA256: 146305f345901a248562775bcabc3b93da38e25934bd058f21f0bd50abc08041
+Installed-Size: 18151
+Depends: gfortran,libfftw3-dev,git,libgfortran-10-dev,libusb-1.0-0-dev,texinfo,qtbase5-dev,qtbase5-dev-tools,qtmultimedia5-dev,libqt5multimedia5-plugins,libqt5serialport5-dev,libudev-dev,libhamlib4,libhamlib-utils,wsjtx
+Filename: ./js8call_2.2.0-1_armhf.deb
+Size: 10081058
+MD5sum: d6ba2eeff3f1cd4a9b088913aa833aaf
+SHA1: b3cc329d669bacc8762a1b97e83c55ca3b97434c
+SHA256: 06785384323be36d0e9be2a7c46d4436a85d8e61ea162caa09cbce10bb4cc3f2
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
@@ -1038,19 +1020,19 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: libhamlib-dev
-Version: 4.6.3-1
+Package: libax25
+Version: 1.2.2-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 385
-Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
-Filename: ./libhamlib-dev_4.6.3-1_armhf.deb
-Size: 98848
-MD5sum: 037a50265da419a8b27ff495fb8873a4
-SHA1: 169415f8ba1ef9398c50c48896ef0e519d3fb0cc
-SHA256: 7c5ef2b1dd5e8ffb7a72cce080be577eb24c727df40ce718ec6eade25245c5a2
+Installed-Size: 423
+Depends: zlib1g,zlib1g-dev
+Filename: ./libax25_1.2.2-1_armhf.deb
+Size: 158880
+MD5sum: c25eece4ad04818473f2275171a3c82a
+SHA1: d39bfbfd11f2a3013f516f9b6f9d2c045d37b708
+SHA256: 146305f345901a248562775bcabc3b93da38e25934bd058f21f0bd50abc08041
 Section: default
-Priority: optional
+Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
@@ -1074,17 +1056,35 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
-Package: libhamlib-utils
-Version: 4.6.3-1
+Package: libhamlib-dev
+Version: 4.6.4-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 4289
+Installed-Size: 385
+Depends: libusb-1.0-0-dev,libc6,libhamlib4,libc6-dev
+Filename: ./libhamlib-dev_4.6.4-1_armhf.deb
+Size: 98882
+MD5sum: 1a83bc37ff7b786c04881544a184dc8d
+SHA1: 2da3a3e335c11ed41308f6535cd8872d889eb30d
+SHA256: f0cd68892853a3a87bd7e1783f2f117cec259ff81958b0c0b10c4252a535f10b
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: libhamlib-utils
+Version: 4.6.4-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 4285
 Depends: libusb-1.0-0-dev,libc6,libreadline8,libhamlib4
-Filename: ./libhamlib-utils_4.6.3-1_armhf.deb
-Size: 1776426
-MD5sum: 74019daf63f7265210f97fbc26dd1f60
-SHA1: 7ae926a94f1587c8cff4feedb3d65b06e7ec8ed7
-SHA256: 2eb5b01afd3bbf3d8a96b72ad63ac71220df8049578de49e0450aaa57a77a356
+Filename: ./libhamlib-utils_4.6.4-1_armhf.deb
+Size: 1774224
+MD5sum: 2f84c88655e88774b47e01a42972c589
+SHA1: 2060875cab043120122862292c881d1f2f5e89f8
+SHA256: 3f12478a87dd3eaf8342885cfdcd32a228e3dde53ae1d73bd9b92fad0ff7d890
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -1111,16 +1111,16 @@ License: See source code license
 Vendor: none
 
 Package: libhamlib4
-Version: 4.6.3-1
+Version: 4.6.4-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 66944
+Installed-Size: 66958
 Depends: libusb-1.0-0-dev,libc6
-Filename: ./libhamlib4_4.6.3-1_armhf.deb
-Size: 20541562
-MD5sum: 26aaf9dbc21f4291028bb467c982dea5
-SHA1: 10da4bf6a134253822217c8e244c97c732557af5
-SHA256: e8138ac5f975343ae6c10750e49fe2555f4a7931fd79b92777a4b4de9f1349bb
+Filename: ./libhamlib4_4.6.4-1_armhf.deb
+Size: 20546990
+MD5sum: bae39bd50d3387c97564d2a423070af7
+SHA1: a0816713fe8ed6ad7e1c8ab0a35e98bf4286c1c1
+SHA256: cfb87b67aab0c923f6c63dd8a7e9df0329a08b73d9cbd8288a1be9e17c21f527
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
@@ -1148,24 +1148,6 @@ Vendor: none
 
 Package: linpac
 Version: 0.29-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 4343
-Depends: ax25-tools,perl
-Filename: ./linpac_0.29-1_arm64.deb
-Size: 1476354
-MD5sum: 611d515411b7c12c614e32485c738fff
-SHA1: 6c42aa4c343a043dbfedc2a5d8d6479f6d478e5c
-SHA256: 545be99b940c4f5558e97cef2d70f1db237abb5a322effe36d2c722a93ead783
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: linpac
-Version: 0.29-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 3577
@@ -1179,6 +1161,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: linpac
+Version: 0.29-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 4343
+Depends: ax25-tools,perl
+Filename: ./linpac_0.29-1_arm64.deb
+Size: 1476354
+MD5sum: 611d515411b7c12c614e32485c738fff
+SHA1: 6c42aa4c343a043dbfedc2a5d8d6479f6d478e5c
+SHA256: 545be99b940c4f5558e97cef2d70f1db237abb5a322effe36d2c722a93ead783
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1292,24 +1292,6 @@ Vendor: none
 
 Package: uronode
 Version: 2.15-1
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 205
-Depends: libax25
-Filename: ./uronode_2.15-1_armhf.deb
-Size: 79432
-MD5sum: 61cd0b943630ef8a1ae015ec2d1a16c4
-SHA1: d3e4eb93626a24ec9c039ce0b4c46a318d5af63e
-SHA256: 2737f572fc7768f81bd66acf092b713d829902201231e38ef7b3c602411a401e
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: uronode
-Version: 2.15-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 233
@@ -1323,6 +1305,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: uronode
+Version: 2.15-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 205
+Depends: libax25
+Filename: ./uronode_2.15-1_armhf.deb
+Size: 79432
+MD5sum: 61cd0b943630ef8a1ae015ec2d1a16c4
+SHA1: d3e4eb93626a24ec9c039ce0b4c46a318d5af63e
+SHA256: 2737f572fc7768f81bd66acf092b713d829902201231e38ef7b3c602411a401e
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -1364,24 +1364,6 @@ Vendor: none
 
 Package: wsjtx
 Version: 2.6.1-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 53366
-Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
-Filename: ./wsjtx_2.6.1-1_arm64.deb
-Size: 12409154
-MD5sum: fb26e614d3fa14c2b3ca26a24e15d385
-SHA1: cd2723230a7385b27f4e3bffb05b222b21291c2a
-SHA256: ccd07d67c64d7f765ddc8f5fd3998ebaf2e0aa261e2b990375520c115adfb70c
-Section: default
-Priority: extra
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: wsjtx
-Version: 2.6.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 46923
@@ -1398,19 +1380,19 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: xastir
-Version: 2.2.3-1
+Package: wsjtx
+Version: 2.6.1-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 8675
-Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
-Filename: ./xastir_2.2.3-1_arm64.deb
-Size: 3155144
-MD5sum: d200da41d98898a570411f6ac5cbb206
-SHA1: 2147e8aaebcd2cdb6bbb3510ca975c64b419e1eb
-SHA256: 126569ef2ae1c78e7e592d2ce9a1505c09652e6ff934325473fdb9d171a30662
+Installed-Size: 53366
+Depends: libgfortran5,libqt5widgets5,libqt5network5,libqt5printsupport5,libqt5multimedia5-plugins,libqt5serialport5,libqt5sql5-sqlite,libfftw3-single3,libgomp1,libboost-all-dev,libusb-1.0-0,libportaudio2,asciidoctor,qttools5-dev,libhamlib4,libhamlib-utils
+Filename: ./wsjtx_2.6.1-1_arm64.deb
+Size: 12409154
+MD5sum: fb26e614d3fa14c2b3ca26a24e15d385
+SHA1: cd2723230a7385b27f4e3bffb05b222b21291c2a
+SHA256: ccd07d67c64d7f765ddc8f5fd3998ebaf2e0aa261e2b990375520c115adfb70c
 Section: default
-Priority: optional
+Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
@@ -1434,21 +1416,21 @@ Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
-Package: yad
-Version: 13.0-1
-Architecture: armhf
+Package: xastir
+Version: 2.2.3-1
+Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 1350
-Depends: intltool,libgtk-3-dev,autotools-dev
-Filename: ./yad_13.0-1_armhf.deb
-Size: 578700
-MD5sum: 46dc9a921a13d03e606e5f82f056ebb1
-SHA1: 97e1a21861d10a7579cc9b76cfe3639d7d07ca21
-SHA256: ffced45eef5e66318dc3c87710c3121bca5e70114b1c8dffb404c1c16020dc2c
+Installed-Size: 8675
+Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
+Filename: ./xastir_2.2.3-1_arm64.deb
+Size: 3155144
+MD5sum: d200da41d98898a570411f6ac5cbb206
+SHA1: 2147e8aaebcd2cdb6bbb3510ca975c64b419e1eb
+SHA256: 126569ef2ae1c78e7e592d2ce9a1505c09652e6ff934325473fdb9d171a30662
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1467,6 +1449,24 @@ Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: yad
+Version: 13.0-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 1350
+Depends: intltool,libgtk-3-dev,autotools-dev
+Filename: ./yad_13.0-1_armhf.deb
+Size: 578700
+MD5sum: 46dc9a921a13d03e606e5f82f056ebb1
+SHA1: 97e1a21861d10a7579cc9b76cfe3639d7d07ca21
+SHA256: ffced45eef5e66318dc3c87710c3121bca5e70114b1c8dffb404c1c16020dc2c
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
