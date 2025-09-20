@@ -932,24 +932,6 @@ Vendor: none
 
 Package: gpredict
 Version: 2.3.139.946a-1
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 7674
-Depends: libtool,intltool,autoconf,automake,libcurl4-openssl-dev,pkg-config,libglib2.0-dev,libgtk-3-dev,libgoocanvas-2.0-dev
-Filename: ./gpredict_2.3.139.946a-1_arm64.deb
-Size: 5177686
-MD5sum: 3fd4048ab64d10a2eda552819f3a2ca5
-SHA1: efd9d43b2fba43317200dbde1a50db67fc8c79b2
-SHA256: 6992a7b80942859e2125f3ca93abc5e068b98647212d256e7cdfeddb8a27a0a3
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: gpredict
-Version: 2.3.139.946a-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7283
@@ -963,6 +945,24 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: gpredict
+Version: 2.3.145.34af-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 7648
+Depends: libtool,intltool,autoconf,automake,libcurl4-openssl-dev,pkg-config,libglib2.0-dev,libgtk-3-dev,libgoocanvas-2.0-dev
+Filename: ./gpredict_2.3.145.34af-1_arm64.deb
+Size: 5169648
+MD5sum: 35e447e730b96dbb73a064cce6440aa2
+SHA1: cfba8e80b62451bb060b0fd2747d95809667357c
+SHA256: 70c021bf171d7c688f196702c98fcd4d0450c673b8f7ca19347ae17a8ef99f6a
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
