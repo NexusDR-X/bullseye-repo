@@ -59,12 +59,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 668
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-apps_2.1.0-1_armhf.deb
-Size: 299038
-MD5sum: 84b41a49b33cd68c4048cdf5e6d7d41a
-SHA1: 02655f4f37923930ece9816a05771943ee6dab42
-SHA256: 521f7db18a56037db64838ded025887a2a806bcdb7f07f55788ee76399a5c4df
+Size: 298978
+MD5sum: 9d16a313dd26d5c0d343526063009274
+SHA1: 1870a0318bbe6bbd525808e8676f4b11dbc33e38
+SHA256: 40e40f5e68afcd07a0c3282f86edc926718da163ce03232d6c9a4b4b4aae83fb
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
@@ -95,12 +95,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1351
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-tools_1.1.0-1_armhf.deb
-Size: 534368
-MD5sum: 3aa2e49658d2367cb889716b4734cbc5
-SHA1: 1e4e217b20d74f48f30f7d2a415a59bf55eb3c50
-SHA256: ce49b2681eea7e409a1ec423c642085da770c8201a1c3422d8bb88b3952994d1
+Size: 534332
+MD5sum: 5bdb59b6700c1c5175e78ec987909efc
+SHA1: 6bb49e7e0be549fd26eeec42bdd97a865a82069a
+SHA256: 1feb4d8e44761f87e6f4af60f4f0d97a851fff6c534922d97cd87cd9904e4eed
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
@@ -1028,11 +1028,11 @@ Installed-Size: 423
 Depends: zlib1g,zlib1g-dev
 Filename: ./libax25_1.2.2-1_armhf.deb
 Size: 158880
-MD5sum: c25eece4ad04818473f2275171a3c82a
-SHA1: d39bfbfd11f2a3013f516f9b6f9d2c045d37b708
-SHA256: 146305f345901a248562775bcabc3b93da38e25934bd058f21f0bd50abc08041
+MD5sum: ea24f53de5aa993f7cb9fc1fdc3f5885
+SHA1: 0f7fc6c0931fc2d8ab74656b72b3ff4c10e8cff1
+SHA256: 15dbad0c896809d2452c52480adc03bbbd473f3df20b29373ce392d5be1ed040
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
