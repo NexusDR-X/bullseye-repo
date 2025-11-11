@@ -1266,6 +1266,24 @@ License: See source code license
 Vendor: none
 
 Package: rmsgw
+Version: 2.5.1-1
+Architecture: armhf
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 674
+Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
+Filename: ./rmsgw_2.5.1-1_armhf.deb
+Size: 278466
+MD5sum: 882f6270122d90a31583b36a76af9e1e
+SHA1: 66d273ec8b451c1443a6466b1ee0aadde807cece
+SHA256: 5b29ccd80ffa4541301af1c0228a3644fa9cc8dfaead5b0930f3eabd887a32a2
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
+License: See source code license
+Vendor: none
+
+Package: rmsgw
 Version: 2.5.1-7
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
@@ -1280,24 +1298,6 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
-License: See source code license
-Vendor: none
-
-Package: rmsgw
-Version: 2.5.1-7
-Architecture: armhf
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 675
-Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-7_armhf.deb
-Size: 278314
-MD5sum: 2e55c4f010d857d85d2d1a0d9a5b5c9e
-SHA1: 5128577e86e323c561d227da119f38fcda11d994
-SHA256: 20cf947c2bbdfd8bcba45ac1d56f4663275d0d4f8fac84d28deecfce22db8803
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
 License: See source code license
 Vendor: none
 
@@ -1413,13 +1413,13 @@ Package: xastir
 Version: 2.2.3-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 7852
+Installed-Size: 7847
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.2.3-1_armhf.deb
-Size: 3008246
-MD5sum: d4418b62c80a0d99f98885a9bb273206
-SHA1: a160fcd58667feac1c3ea9180156254961c78a71
-SHA256: 5bc6980ec5abc857f1116a80dc5876c84072d5b0d1244ac741d4b4fb6c291c56
+Size: 3007802
+MD5sum: 095c4953582de1c15d03ff8aea3c1bb9
+SHA1: 4caa89f23ac711bda8bc27663fc5c6dfec455121
+SHA256: 06edd48ea53cb821ef5bd18f8515d09b74a08620b6270e89be601e183733a2a2
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
