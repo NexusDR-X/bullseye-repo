@@ -393,16 +393,16 @@ Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tr
  The github &quot;issues&quot; section is for reporting software defects and enhancement requests.  It is NOT a place to ask questions or have general discussions.  Please use one of the locations above.
 
 Package: direwolf
-Version: 1.8.0-20251029155004-1d2938d-1
+Version: 1.8.1-20251111140039-a231971-1
 Architecture: armhf
 Maintainer: https://github.com/wb2osz/direwolf
 Installed-Size: 21269
 Depends: libasound2,libgps-dev
-Filename: ./direwolf-1.8.0-20251029155004-1d2938d-1_armhf.deb
-Size: 19661446
-MD5sum: 26e5fa3ac5e66ebf27bdf9ed4f32faee
-SHA1: 70d3eee36317c53eb0c15a384f7798e828108a48
-SHA256: 7ed5f2f37bfcda5c55a36da70cf54966ed1304f239291b4d4f80f619525c89e0
+Filename: ./direwolf-1.8.1-20251111140039-a231971-1_armhf.deb
+Size: 19661492
+MD5sum: cb0617fc6cfa10eb8560645025e2e8b0
+SHA1: edb771c69018848afc5a9366f8e7b6a493b07799
+SHA256: b1bc4400a47dd77aee0a14b25efd1a2b46022865bea579baaf72abc6e06f4202
 Section: devel
 Priority: optional
 Description: Dire Wolf is an AX.25 soundcard TNC, digipeater, APRS IGate, GPS tracker, and APRStt gateway
