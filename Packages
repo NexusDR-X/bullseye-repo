@@ -1416,10 +1416,10 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 7886
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.2.3-1_armhf.deb
-Size: 3020438
-MD5sum: a2bdc7b4f1a82673b9ed61b9ca3971dd
-SHA1: 435b524a9356910de147b1dcece9c0a190bf3177
-SHA256: 0b772419e8a968a3d53b1d3dea82dc89257813f4e0162467aacb2eaa11441f64
+Size: 3020456
+MD5sum: c4e24f6b7a6be387538920e8446ceb0d
+SHA1: ab1236931906cd369dea754f5aedf7113b747e57
+SHA256: 295411ae5025fac9fc1e8e0c2105326aa752b3e567ce6db4e2314869317d0fe2
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
