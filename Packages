@@ -59,12 +59,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 819
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-apps_2.1.0-1_arm64.deb
-Size: 321344
-MD5sum: 77a911d5696e4f6ed70e405a6dc8c7f2
-SHA1: a5da1ab3eaf72293807db6ab5663608905da4ea3
-SHA256: 9058f4bc37664aace03c2fe25d1c8113b2e924acb6a5d55c763b55fb53b5793a
+Size: 321466
+MD5sum: d348b22a9976bfbc3d085d55f11c0aaf
+SHA1: 2ddbc23c6cefe6a3f178baa34d795cc41bb02313
+SHA256: 191276d47c28b7f3b4dc575a77d187f75cbbd96401b2ce3c2086b4e193c719d2
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
@@ -77,12 +77,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 1600
 Depends: libncursesw5,libncursesw5-dev
 Filename: ./ax25-tools_1.1.0-1_arm64.deb
-Size: 584298
-MD5sum: cbe1c90a9d5bd1ff2fa579d0a389b7ee
-SHA1: e3052a761a6a1856b8ad5fddf0c2273837b7c13e
-SHA256: 047a4a2e950076c742942fbc635d36da882253742f152b8defa3774f36064fea
+Size: 584300
+MD5sum: 706242cf711d114996fcd16cc06c8425
+SHA1: 50ffcb829de0da42dff2ac512ae37d215d2333f4
+SHA256: 862d96e0fecff1e3417b8bfaa094e013e3700d594bd5e8121baf131b5d33a99b
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
@@ -1049,12 +1049,12 @@ Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 590
 Depends: zlib1g,zlib1g-dev
 Filename: ./libax25_1.2.2-1_arm64.deb
-Size: 177168
-MD5sum: ff09ef66d6de7677d76c1c53ddf198a8
-SHA1: 90817d55ad2590504f848f92b059af0fee54e974
-SHA256: 425c199276d56c96deb25855d21dcabf1398e1ab4d1c1992a78718809110c9f9
+Size: 177170
+MD5sum: e8a2e691b711c70f25acb7655f06ce4c
+SHA1: cff9343ea44d41818529842bae8a76872b20e4b0
+SHA256: 201a3c49a91e5454bce7f65fd84ae2d591e0baac375e022f393a5037375c879e
 Section: default
-Priority: extra
+Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
