@@ -1278,6 +1278,24 @@ Vendor: none
 
 Package: rmsgw
 Version: 2.5.1-1
+Architecture: arm64
+Maintainer: AG7GN@users.noreply.github.com
+Installed-Size: 775
+Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
+Filename: ./rmsgw_2.5.1-1_arm64.deb
+Size: 294882
+MD5sum: 779c116bb54c556a41258d45794eab13
+SHA1: f97cd11846123dd131e85be4ef846c587f8e0686
+SHA256: 8d0e033a352313b03fba0c5767723843c4d0104140f3985dd9e5f336a078443a
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
+License: See source code license
+Vendor: none
+
+Package: rmsgw
+Version: 2.5.1-1
 Architecture: armhf
 Maintainer: AG7GN@users.noreply.github.com
 Installed-Size: 674
@@ -1291,24 +1309,6 @@ Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
 Description: Packaged for Nexus DR-X running RaspiOS bullseye 32-bit
-License: See source code license
-Vendor: none
-
-Package: rmsgw
-Version: 2.5.1-7
-Architecture: arm64
-Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 776
-Depends: libax25,ax25-apps,ax25-tools,libxml2,libxml2-dev,xutils-dev,libncurses5-dev
-Filename: ./rmsgw_2.5.1-7_arm64.deb
-Size: 294740
-MD5sum: 9ef5068a4d8b0623e6e50ed480f0efbf
-SHA1: 88b31cc5c2fbdaf3ec1f42d2fe6df5eff9d797df
-SHA256: f261e8bc99ec25483381dbb6cdbf89c734207af3bbbc88fb36d96aa7513d99c9
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: Packaged for Nexus DR-X running RaspiOS bullseye 64-bit
 License: See source code license
 Vendor: none
 
@@ -1424,13 +1424,13 @@ Package: xastir
 Version: 2.2.3-1
 Architecture: arm64
 Maintainer: AG7GN@users.noreply.github.com
-Installed-Size: 8675
+Installed-Size: 19429
 Depends: xorg-dev,graphicsmagick,gv,libmotif-dev,libcurl4-openssl-dev,gpsman,gpsmanshp,libpcre3-dev,libproj-dev,libdb5.3-dev,python-dev,libwebp-dev,shapelib,libshp-dev,festival,festival-dev,libgeotiff-dev,libgraphicsmagick1-dev,xfonts-100dpi,xfonts-75dpi
 Filename: ./xastir_2.2.3-1_arm64.deb
-Size: 3155796
-MD5sum: a8c2f1a9fea1affa0e632f5417b8885e
-SHA1: 43696d43def4dd5dd22a421b026b4ddfe76382fe
-SHA256: 9f2133049405cb9b518852fb1fb66dba0e160582da7748da8e6a0b986c3b74fe
+Size: 5229876
+MD5sum: 38b475c2a34ed065e6bf623ef70a0dce
+SHA1: ec89c1273c7f1014969fafd205d32a2054a2708b
+SHA256: d92098632641741e924d2f8c7ed30112b6577016d22af713330371eb67079dbd
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given
